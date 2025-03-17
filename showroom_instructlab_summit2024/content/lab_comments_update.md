@@ -47,10 +47,13 @@ The GUI lab is good to show how you create knowledge qna.yaml files, attribution
 
 Seed Example 1
 
-```IBM Granite is a series of decoder-only AI foundation models created by IBM. It was announced on September 7, and an initial paper was published 4 days later```
+
+    Seed Example
+
+    IBM Granite is a series of decoder-only AI foundation models created by IBM. It was announced on September 7, and an initial paper was published 4 days later
 
 Q&A Pair 1
-`What is IBM Granite?`
+        What is IBM Granite?
 `IBM Granite is a series of decoder-only AI foundation models created by IBM`
 
 Q&A Pair 2

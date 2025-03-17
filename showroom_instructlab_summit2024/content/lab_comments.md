@@ -46,7 +46,9 @@ When you are in the lab and try to view the synthetically generated data it is s
 The GUI lab is good to show how you create knowledge qna.yaml files, attribution.txt, and the md file.  This lab does involve a lot of typing and students have to think about the text they are entering - it would be easier to provide the input for them as part of this lab otherwise they are more focused on typing rather than concentrating on the lab. Here are the examples I used which we could made available in a text file for the students to cut and paste from. 
 
 Seed Example 1
-`IBM Granite is a series of decoder-only AI foundation models created by IBM. It was announced on September 7, and an initial paper was published 4 days later. `
+
+##
+<tab><tab> IBM Granite is a series of decoder-only AI foundation models created by IBM. It was announced on September 7, and an initial paper was published 4 days later. 
 
 Q&A Pair 1
 `What is IBM Granite?`

@@ -15,9 +15,9 @@ by Rina Diane Carallar  full article can be found [here](https://www.ibm.com/thi
 ## Comparison of LLMs and SLMs
 
 
-|             Attribute            |                 LLM                |                    SLM                   | 
-|.................................:|...................................:|.........................................:|
-| Typical Size                     | billions to trillions of paramaters| few million to several billion paramaters|
-| Accessibility                    | require multiple GPUs              | require less GPUs                        |
-| Latancy                          | Higher                             | Lower                                    |
+| Attribute | LLM | SLM | 
+| --- | --- | --- |
+| Typical Size | billions to trillions of paramaters| few million to several billion paramaters|
+| Accessibility | require multiple GPUs | require less GPUs |
+| Latancy | Higher | Lower |
 | Sustainability |Higher Carbon Footprint| Lower Carbon Footprint|

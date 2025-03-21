@@ -1,50 +1,11 @@
-**NOTE** be sure to cover material for the questions asked for the badge
+# Open Source vs Proprietary
 
+**Open source software (OSS)** is source code developed and maintained through open collaboration. Anyone can use, examine, alter and redistribute OSS as they see fit, typically at no cost.
 
-# Agenda for workshop
-# Overview of objectives
-    Achieve badge
-    Understand LLM/SLMs
-    Understand InstructLab Methodology
-    Hands on experience with Synthetic Data Generation
-    Podman?????
-    Granite???
+**proprietary or closed source software applications** such as Microsoft Word or Adobe Illustrator. The creator or copyright holder sells the proprietary or closed source software to end users, who are not allowed to edit, enhance or redistribute the product except as specified by the copyright holder.
 
-# Understand LLM/SLMs and the current challenges
-## LLM vs SLM
-## Open Source vs Proprietary
-### Apache 2.0 License for InstructLab and Granite
-### reduce bias through diversity
-## Fine tuning / RAG / InstructLab
-## Privacy of trade secrets or corporate policies
-## cost implications
-## Herd of Llamas
-## Catastrophic Forgetting
+[for the full article click here](https://www.ibm.com/think/topics/open-source#:~:text=With%20open%20source%2C%20the%20IP,subscription%20or%20proprietary%20license%20fee.)
 
-# Understand InstructLab Methodology
-## LAB paper
-### main goal is to democratize generative AI through open source community contributions
-### community driven development
-### minimum technical experience needed
-### ease of use for SMEs
-## Taxonomy
-### Skills
-#### qna.yaml
-### Knowledge
-#### qna.yaml
-#### attribution.txt
-#### knowledge document (md or pdf)
-## Synthetic Data Generation
-### Student Model
-### Teacher Model
-#### 
-### Critic Model
-### advantages of Synthetic Data Generation
-#### amplifies examples created by community
-## Multiphased tuning
-## UI
-### yaml validation
-### 
+---
 
-
-# Synthetic Data Generation Lab
+![The problem with LLMs](images/image2.png)

@@ -45,7 +45,7 @@ When you are in the lab and try to view the synthetically generated data it is s
 
 The GUI lab is good to show how you create knowledge qna.yaml files, attribution.txt, and the md file.  This lab does involve a lot of typing and students have to think about the text they are entering - it would be easier to provide the input for them as part of this lab otherwise they are more focused on typing rather than concentrating on the lab. Here are the examples I used which we could made available in a text file for the students to cut and paste from. 
 
-Seed Example 1
+### Seed Example 1 ###
 
     IBM Granite is a series of decoder-only AI foundation models created by IBM. It was announced on September 7, and an initial paper was published 4 days later
 
@@ -74,7 +74,7 @@ Q&A Pair 3 - Answer
     On September 11, 2023, four days after Granite was announced.
 
 
-Seed Example 2
+### Seed Example 2 ###
 
     Granite's first foundation models were Granite.13b.instruct and Granite.13b.chat. The "13b" in their name comes from 13 billion, the amount of parameters they have as models, lesser than most of the larger models of the time. Later models vary from 3 to 34 billion parameters.
 
@@ -103,9 +103,7 @@ Q&A Pair 3 - Answer
     Today's Granite models have between 3 and 24 billion parameters.
 
 
-
-
-Seed Example 3
+### Seed Example 3 ###
 
     On May 6, 2024, IBM released the source code of four variations of Granite Code Models under Apache 2, an open source permissive license that allows completely free use, modification and sharing of the software, and put them on Hugging Face for public use. According to IBM's own report, Granite 8b outperforms Llama 3 on several coding related tasks within similar range of parameters.
 
@@ -134,7 +132,7 @@ Q&A Pair 3 - Answer
     On Hugging Face
 
 
-Seed Example 4
+### Seed Example 4 ###
 
     Granite vision model is a pre-trained model specialised on vision tasks for document and image understanding, supporting a range of file types and resolutions, and designed for efficient deployment in enterprise environments. It can be used by individuals or large corporates. 
 
@@ -164,7 +162,7 @@ Q&A Pair 3 - Answer
 
 
 
-Seed Example 5
+### Seed Example 5 ###
 
     You can safeguard AI with Granite Guardian, ensuring enterprise data security and mitigating risks across a variety of user prompts and LLM responses, with top performance in 15+ safety benchmarks.`
 

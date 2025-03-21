@@ -8,4 +8,4 @@
 
 ---
 
-![The problem with LLMs](the problem with LLMs.png)
+![The problem with LLMs](images/the problem with LLMs.png)

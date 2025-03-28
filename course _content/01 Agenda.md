@@ -1,25 +1,28 @@
-# Agenda for workshop
-# Overview of objectives
-# Large and Small Language model 
+# 1. Agenda for workshop
+# 2. Overview of objectives
+# 3. Language model 
 - Understand LLM/SLMs and the current challenges
 - LLM vs SLM
 - Open Source vs Proprietary
 - Apache 2.0 License for InstructLab and Granite
 - reduce bias through diversity
 - Fine tuning / RAG / InstructLab
+- Catastrophic Forgetting and other issues
 - Privacy of trade secrets or corporate policies
-- cost implications
+- Cost implications
 - Herd of Llamas
-- Catastrophic Forgetting
 
-# Understand InstructLab Methodology
+
+# 4. Understand InstructLab Methodology
+- A brief history of InstructLab
 - LAB paper
-- main goal is to democratize generative AI through open source community contributions
-- community driven development
-- minimum technical experience needed
-- ease of use for SMEs
+- Democratize generative AI 
+- Community driven development
+- Minimum technical experience needed
+- Ease of use for SMEs
 
-# Taxonomy
+# 5. Taxonomy
+- What is an InstructLab Taxonomy
 - Skills
 - qna.yaml
 - Knowledge
@@ -27,7 +30,7 @@
 - attribution.txt
 - knowledge document (md or pdf)
 
-# Synthetic Data Generation and Training a Model
+# 6. Synthetic Data Generation and Training a Model
 - Synthetic Data Generation
 - Student Model
 - Teacher Model
@@ -38,8 +41,8 @@
 - UI
 - yaml validation
  
-# RedHat InstructLab Lab
+# 7. RedHat InstructLab Hands-on Lab
 
-# Synthetic Data Generation Lab
+# 8. InstructLab GUI Hands-on Lab
 
-# InstructLab open book badge exam
+# 9. InstructLab open-book badge exam

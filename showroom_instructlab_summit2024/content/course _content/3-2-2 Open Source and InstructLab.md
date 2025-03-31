@@ -10,6 +10,6 @@ Join Máirín Duffy from Red Hat to explore:
 - Apache 2.0 licence
 - open community data set
 
-![What is an LLM and how are they different from SLMs](images/opensource.png)
+![Open Source and InstructLab](images/opensource.png)
 
-![The problem with LLMs](https://youtu.be/CnHBjDfiWjo)
+![Link to the video - "What is the InstructLab community project?"]](https://youtu.be/CnHBjDfiWjo?si=YqxxTklqMrNeiFFG)

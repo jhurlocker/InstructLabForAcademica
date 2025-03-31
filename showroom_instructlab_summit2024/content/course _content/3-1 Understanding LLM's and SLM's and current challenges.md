@@ -1,11 +1,13 @@
 # Understanding LLMs / SLMs 
 
-### Large Language Models (LLMs) are a category of AI models
+## Large Language Models (LLMs) are a category of AI models
 - ## Trained on enormous amounts of unlabeled data
 - ## Very expensive to create
 - ## Built on transformer neural network model ML/DL methodologies
+***
 
 ## LLMs power a range of useful applications like chatbots and coding assistants. 
+***
 
 ## LLMs are capable of understanding and generating natural language and other types of content to perform a wide range of tasks.
 
@@ -13,9 +15,9 @@
 
 - ## Partially Open Models (Meta’s Llama models, these have some usage constraints)
 
-### Fully Open Models (Mistral AI’s Mistral models, BM’s Granite Models)
+- ## Fully Open Models (Mistral AI’s Mistral models, BM’s Granite Models)
 
----
+***
 
 
 ## Small Language Models (SLMs)

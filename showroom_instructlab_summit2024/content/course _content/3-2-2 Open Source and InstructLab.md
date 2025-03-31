@@ -7,6 +7,8 @@ Join Máirín Duffy from Red Hat to explore:
 - how anyone can contribut knowledge and skills to a model
 - what Makes InstructLab open source
 - how anyone can be part of this open source community
+- Apache 2.0 licence
+- open community data set
 
 ![What is an LLM and how are they different from SLMs](images/opensource.png)
 

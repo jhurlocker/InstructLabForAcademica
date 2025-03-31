@@ -1,28 +1,13 @@
-# Understanding LLMs / SLMs 
+# Understanding LLMs / SLMs (create a pictuer for this page)
 
-## Large Language Models (LLMs) are a category of AI models
-- ## Trained on enormous amounts of unlabeled data
-- ## Very expensive to create
-- ## Built on transformer neural network model ML/DL methodologies
-***
-
-## LLMs power a range of useful applications like chatbots and coding assistants. 
-***
-
-## LLMs are capable of understanding and generating natural language and other types of content to perform a wide range of tasks.
-
-- ## Proprietary Models (OpenAI’s GPT models, Anthropic’s Claude models)
-
-- ## Partially Open Models (Meta’s Llama models, these have some usage constraints)
-
-- ## Fully Open Models (Mistral AI’s Mistral models, BM’s Granite Models)
+![What are LLMs?](images/whatarellms.png)
 
 ***
 
 
 ## Small Language Models (SLMs)
 
-"Small language models (SLMs) are artificial intelligence (AI) models capable of processing, understanding and generating natural language content. As their name implies, ** SLMs are smaller in scale and scope than large language models (LLMs)**."
+"Small language models (SLMs) are artificial intelligence (AI) models capable of processing, understanding and generating natural language content. As their name implies, **SLMs are smaller in scale and scope than large language models (LLMs)**."
 
 Quote by Rina Diane Carallar full article can be found [here](https://www.ibm.com/think/topics/small-language-models#:~:text=Small%20language%20models%20(SLMs)%20are,large%20language%20models%20(LLMs).)
 

@@ -4,10 +4,9 @@ In this section we will look at the challenges of Synthetic Data Generation (SDG
 
 ## Synthetic Data Generation Challenges
 
-Why we are looking at this...... 
-Large Language models are expected to produce responses that align with human values and that are correct.
+SDG is important as Large Language models are expected to produce responses that align with human values and that are correct, this is one of the ways that the LLM will understand how to craft examples by learning from experience.
 
-LLMs are are generally trainined using Self-Supervised learning, from vast amounts of text data with out explicit human-labeled answers. 
+LLMs are are generally trainined using Self-Supervised learning, from vast amounts of text data without explicit human-labeled answers. 
 
 - **Self-Supervised Learning:** During training, the model is fed with a large corpus of text (which could include books, articles, websites, etc.). In self-supervised learning, the model doesn't need labeled pairs of questions and answers. Instead, it learns to predict the next word in a sequence based on context, or in some cases, it might predict missing words in a sentence. This process doesn't require manually curated question-answer pairs but rather relies on the structure of the language itself.
 
@@ -17,8 +16,8 @@ LLMs are are generally trainined using Self-Supervised learning, from vast amoun
 
 ## To train with InstructLab.....
 
-To train with InstructLab we require:
-- Q and A answer pairs which we create from a handfull of seed examples to create many (100's to 10,000s)
+To train with InstructLab the following is require:
+- Q and A pairs, that are created (using SDG) from a handfull of seed examples to create many (100's to 100,000s)
 - Contextual data 
 - Attribution details
 

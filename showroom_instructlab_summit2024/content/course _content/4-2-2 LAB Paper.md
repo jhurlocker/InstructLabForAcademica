@@ -11,4 +11,4 @@ We will cover the topic's in the video in the course, but if you want to revisit
 
 ![What is an LLM and how are they different from SLMs](images/sciencebehind.png)
 
-[Link to the video Paper](https://youtu.be/_kbq-npuMC0?si=F6FUVsk2GGLrgmrn)
+[Link to the video - The Technology behind InstrucLab, a low-cost way to customize LLM's](https://youtu.be/_kbq-npuMC0?si=F6FUVsk2GGLrgmrn)

@@ -15,7 +15,7 @@ Large Language Models (LLMs) have the ability to fuel a diverse array of practic
 
 # The Challenge with LLM's - and why we focus on SML's 
 
-## To adjust the parameters and train the open source model **Llama 2-70B** from Meta.ai, you need approximately **6000 GPUs** and you would need to run the training for about **12 days**, which ends up costing approximately **$2 million**.
+To adjust the parameters and train the open source model **Llama 2-70B** from Meta.ai, you need approximately **6000 GPUs** and you would need to run the training for about **12 days**, which ends up costing approximately **$2 million**.
 
 
 Read more in this great article by [Sydea Ameena begum](https://developer.ibm.com/profiles/syedame1/)

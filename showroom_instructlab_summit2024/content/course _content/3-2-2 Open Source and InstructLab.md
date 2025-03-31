@@ -12,4 +12,4 @@ Join Máirín Duffy from Red Hat to explore:
 
 ![Open Source and InstructLab](images/opensource.png)
 
-![Link to the video - "What is the InstructLab community project?"]](https://youtu.be/CnHBjDfiWjo?si=YqxxTklqMrNeiFFG)
+![Link to the video - "What is the InstructLab community project?"](https://youtu.be/CnHBjDfiWjo?si=YqxxTklqMrNeiFFG)

@@ -6,7 +6,7 @@ Large Language Models (LLMs) have the ability to fuel a diverse array of practic
 
 However sometimes they need updating because:
     
-- they need to be kept them fresh and up todate
+- They need to be kept them fresh and up todate
 - Models may need to be 'tweeked' pre-trained models to enhance elements of their knowledge
 - There are limits to augmenting models with RAG
 - Fine-tuning is highly skilled and complex

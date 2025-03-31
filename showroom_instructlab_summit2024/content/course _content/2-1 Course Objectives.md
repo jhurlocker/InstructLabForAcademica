@@ -10,5 +10,5 @@
 - ## Hands on experience with Synthetic Data Generation
 - ## Achieve InstructLab badge
 
-![InstructLab](il-banner.png)
+![InstructLab](il-banner.jpeg)
 

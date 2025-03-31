@@ -1,50 +1,28 @@
-**NOTE** be sure to cover material for the questions asked for the badge
+# Synthetic Data Generation and Training a Model
 
+In this section we will look at the challenges of Synthetic Data Generation (SDG) and the process for training a model.
 
-# Agenda for workshop
-# Overview of objectives
-    Achieve badge
-    Understand LLM/SLMs
-    Understand InstructLab Methodology
-    Hands on experience with Synthetic Data Generation
-    Podman?????
-    Granite???
+## Synthetic Data Generation Challenges
 
-# Understand LLM/SLMs and the current challenges
-## LLM vs SLM
-## Open Source vs Proprietary
-### Apache 2.0 License for InstructLab and Granite
-### reduce bias through diversity
-## Fine tuning / RAG / InstructLab
-## Privacy of trade secrets or corporate policies
-## cost implications
-## Herd of Llamas
-## Catastrophic Forgetting
+Why we are looking at this...... 
+Large Language models are expected to produce responses that align with human values and that are correct.
 
-# Understand InstructLab Methodology
-## LAB paper
-### main goal is to democratize generative AI through open source community contributions
-### community driven development
-### minimum technical experience needed
-### ease of use for SMEs
-## Taxonomy
-### Skills
-#### qna.yaml
-### Knowledge
-#### qna.yaml
-#### attribution.txt
-#### knowledge document (md or pdf)
-## Synthetic Data Generation
-### Student Model
-### Teacher Model
-#### 
-### Critic Model
-### advantages of Synthetic Data Generation
-#### amplifies examples created by community
-## Multiphased tuning
-## UI
-### yaml validation
-### 
+LLMs are are generally trainined using Self-Supervised learning, from vast amounts of text data with out explicit human-labeled answers. 
 
+- **Self-Supervised Learning:** During training, the model is fed with a large corpus of text (which could include books, articles, websites, etc.). In self-supervised learning, the model doesn't need labeled pairs of questions and answers. Instead, it learns to predict the next word in a sequence based on context, or in some cases, it might predict missing words in a sentence. This process doesn't require manually curated question-answer pairs but rather relies on the structure of the language itself.
 
-# Synthetic Data Generation Lab
+- **Training on Question-Answer Pairs:** While the model is trained on a huge range of text, some of this data can include question-answer pairs (from sources like forums, FAQs, or datasets created specifically for tasks like QA). The model learns to associate questions with possible answers in a way that generalizes to answering a wide variety of questions. But this is still part of the broader language modeling process, which doesn't rely solely on QA pairs.
+
+- **Unsupervised Aspect:** The "unsupervised" part comes from the fact that the model isn't explicitly given human-labeled supervision like, "this is the right answer for this question." Instead, it learns from the data itself and uses statistical patterns to form connections.
+
+## To train with InstructLab.....
+
+To train with InstructLab we require:
+- Q and A answer pairs which we create from a handfull of seed examples to create many (100's to 10,000s)
+- Contextual data 
+- Attribution details
+
+We will discuss these in this next section
+
+---
+**In summary**, LLMs are trained using self-supervised learning, with vast amounts of text data, including but not limited to question-answer pairs. The model doesn't need explicit Q&A pairs but can learn to generate relevant answers based on context due to its exposure to language patterns during training.

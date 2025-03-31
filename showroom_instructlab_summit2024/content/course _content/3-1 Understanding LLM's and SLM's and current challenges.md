@@ -1,11 +1,5 @@
 # Understanding LLMs / SLMs 
 
-Let's start by understanding what a Large Language Model (LLM) is and then we can look at what a Small Language Model (SML) is.  What better way to find out than by asking ChatGPT!
-
-![What is an LLM and how are they different from SLMs](images/image1.png)
-
----
-
 ## Large Language Models (LLMs) are a category of AI models
 - Trained on enormous amounts of unlabeled data
 - Very expensive to create
@@ -45,9 +39,10 @@ Small Language Models althought they contain less information are often focused 
 
 | Attribute | LLM | SLM | 
 | --- | --- | --- |
-| Typical Size | billions to trillions of paramaters| few million to several billion paramaters|
-| Accessibility | require multiple GPUs | require less GPUs |
+| Typical Size | Billions to trillions of paramaters| Few million to several billion paramaters|
+| Accessibility | Require multiple GPUs | Require less GPUs |
 | Latancy | Higher | Lower |
 | Sustainability |Higher Carbon Footprint| Lower Carbon Footprint|
-| Typical Content | Scraped from the internet and all available sources | typically specifically curated |
+| Typical Content | Scraped from the internet and all available sources | Typically specifically curated |
 | Uses | General and specific| General and specific |
+| Time to train | ~Weeks to months | ~Hours to weeks|

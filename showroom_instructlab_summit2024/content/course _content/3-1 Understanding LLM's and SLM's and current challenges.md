@@ -1,4 +1,5 @@
-# Understanding LLMs / SLMs (create a pictuer for this page)
+# Understanding LLMs and SLMs 
+***
 
 ![What are LLMs?](images/whatarellms.png)
 

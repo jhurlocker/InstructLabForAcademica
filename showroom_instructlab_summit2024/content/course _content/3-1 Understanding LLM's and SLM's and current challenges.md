@@ -3,7 +3,6 @@
 
 ![What are LLMs?](images/whatarellms.png)
 
-***
 
 
 ## Small Language Models (SLMs)

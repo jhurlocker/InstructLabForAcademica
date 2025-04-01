@@ -9,6 +9,7 @@ Large Language Models (LLMs) have the ability to fuel a diverse array of practic
 - ## by keeping LLMs fresh and up todate with the latest information and skills
 - ## to 'tweek' models to enhance elements of their knowledge or skills
 - ## to update rather than augment with RAG
+- ## by democratising LLM training 
 - ## a simplified means add data without complex and highly skilled Fine-tuning 
 - ## to train SLM models in the area of expertise relevant to their business applicaiton
 
@@ -19,6 +20,6 @@ To adjust the parameters and train the open source model **Llama 2-70B** from Me
 
 
 Read more about this in this great article, by [Sydea Ameena begum](https://developer.ibm.com/profiles/syedame1/)
-What is InstructLab and why do developers need it [What is InstructLab and why do developers need it](https://developer.ibm.com/profiles/syedame1/)
+[What is InstructLab and why do developers need it](https://developer.ibm.com/profiles/syedame1/)
 
 

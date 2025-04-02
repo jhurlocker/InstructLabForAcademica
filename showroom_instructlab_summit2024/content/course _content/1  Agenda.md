@@ -15,11 +15,14 @@
 
 # 4. Understand InstructLab Methodology
 - A brief history of InstructLab
-- LAB paper
+- LAB paper overview
+- LAB paper - link to short video
 - Democratize generative AI 
-- Community driven development
-- Minimum technical experience needed
-- Ease of use for SMEs
+- *MAYBE REMOVE* - Democratize generative AI
+- Technical exerience needed 
+- *REMOVE ALREADY COVERED* -  Community driven development
+- *REMOVE ALREADY COVERED* - Minimum technical experience needed
+- *REMOVE ALREADY COVERED* - Ease of use for SMEs
 
 # 5. Taxonomy
 - What is an InstructLab Taxonomy

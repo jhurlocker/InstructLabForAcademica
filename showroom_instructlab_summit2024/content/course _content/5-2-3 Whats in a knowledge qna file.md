@@ -2,7 +2,6 @@
 
 Details from ![github.com](https://github.com/instructlab/taxonomy?tab=readme-ov-file#taxonomy-tree-layout)
 
-![What's in a Knowledge qna.yaml file](images/whatinaknowledgefile.png)
 
 1. `version`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3.
 
@@ -16,9 +15,9 @@ Details from ![github.com](https://github.com/instructlab/taxonomy?tab=readme-ov
 
     ii. `questions_and_answers`: The parameter that holds your questions and answers
 
-       a. ```question```: Specify a question for the model. Each qna.yaml file needs at least three question and answer pairs per context chunk with a maximum word count of 250 words.
+       a. `question`: Specify a question for the model. Each qna.yaml file needs at least three question and answer pairs per context chunk with a maximum word count of 250 words.
 
-       b. ```answer```: Specify the desired answer from the model. Each qna.yaml file needs at least three question and answer pairs per context chunk with a maximum word count of 250 words.
+       b. `answer`: Specify the desired answer from the model. Each qna.yaml file needs at least three question and answer pairs per context chunk with a maximum word count of 250 words.
 
 5. `document_outline`: Describe an overview of the document your submitting.
 

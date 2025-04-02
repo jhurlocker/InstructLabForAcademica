@@ -1,4 +1,4 @@
-# Democratizing GenAI 
+# Democratizing GenAI  - Skills
 
 # InstructLab does not require you to be:
 - ## Data Scientist

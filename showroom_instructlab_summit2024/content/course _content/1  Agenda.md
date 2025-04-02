@@ -24,14 +24,12 @@
 - *REMOVE ALREADY COVERED* - Minimum technical experience needed
 - *REMOVE ALREADY COVERED* - Ease of use for SMEs
 
-# 5. Taxonomy
-- What is an InstructLab Taxonomy
-- Skills
-- qna.yaml
-- Knowledge
-- qna.yaml
-- attribution.txt
-- knowledge document (md or pdf)
+# 5. InstructLab Taxonomy and files for training
+- Taxonomy
+- Knowledge qna file
+- Knowledge documents (markdown or pdf)
+- Skills qna file
+- Attribution file
 
 # 6. Synthetic Data Generation and Training a Model
 - Synthetic Data Generation

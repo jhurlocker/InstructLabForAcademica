@@ -2,7 +2,11 @@
 
 ## The Technology behind InstructLab, a low-cost way to customize LLMs
 
-![What is an LLM and how are they different from SLMs](images/sciencebehind.png)
+![What is an LLM and how are they different from SLMs](images/labpaper2.png)
+
+- ## Taxonomy based approach (as opposed to a blender approach)
+- ## Synthetic Data Generation - with a Teacher Model
+- ## Critic Model - to check the accuracy of the Synthetic Data
 
 We will cover the topic's in the video in the course, but if you want to revisit later here is the link to the YouTube video:
 [Link to the video - The Technology behind InstrucLab, a low-cost way to customize LLM's](https://youtu.be/_kbq-npuMC0?si=F6FUVsk2GGLrgmrn)

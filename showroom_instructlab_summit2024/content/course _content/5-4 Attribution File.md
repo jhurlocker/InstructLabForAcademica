@@ -1,6 +1,6 @@
 # Attribution File Overview
 
-![Attribution File overview](images/)
+
 
 **Attribution file structure:**
 
@@ -10,10 +10,15 @@
 [Creator name]
 
 **Attribution file example:**
+
 Title of work: Phoenix (constellation)
+
 Link to work: https://en.wikipedia.org/wiki/Phoenix_(constellation)
+
 Revision: https://en.wikipedia.org/w/index.php?title=Phoenix_(constellation)&oldid=1237187773
+
 License of the work: CC-BY-SA-4.0
+
 Creator names: Wikipedia Authors
 
 For more information on what to include in your attribution.txt file, see [For your attribution.txt](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#for-your-attributiontxt-file) file in CONTRIBUTING.md.

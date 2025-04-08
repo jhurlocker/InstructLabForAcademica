@@ -3,6 +3,7 @@
 
 
 ## Freeform skills examples:
+
 *No context is given*
 
 - Speak like Yoda
@@ -13,6 +14,7 @@
 ---
 
 ## Grounded skills examples:
+
 *Context is provided*
 
 - Provide sports commentary on a golf shot in real time based on provided data

@@ -11,24 +11,13 @@ There are two types of compositional skills, freeform and grounded.
 
 Freeform compositional skills are performative and do not require additional context. An example of a freeform skill is teaching the model words that rhyme. You could provide examples of "words that rhyme with 'tool'". By providing those examples, you're essentially using the latent knowledge of the LLM. In our example, you're enabling the LLM to be able to identify words that rhyme in its latent knowledge.
 
-Freeform skills include things like:
-
-- Speak like Yoda
-- Convert to camel case
-- Write me a limerick
-- Generate StableDiffusion prompts
-
 ---
 
 - **Grounded skills**: Tasks that require the model to answer questions based on specific data or knowledge. 
 
 Grounded skills are performative and do require additional context. Examples of a grounded skill would be to read the value of a cell in a table layout or to parse a JSON file. To create a grounded skill to read a Markdown-formatted table layout, the additional context could be an example table layout. This additional context is including in the YAML for the skill and not external to it.
 
-Grounded skills include things like:
 
-- Game creation like Sudoku or tic-tac-toe
-- Summarizing or extracting from a piece of text
-- Find unresolved items in a meeting transcript
 
 
 

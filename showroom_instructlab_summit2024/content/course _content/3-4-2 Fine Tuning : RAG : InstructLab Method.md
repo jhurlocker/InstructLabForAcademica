@@ -2,7 +2,7 @@
 ## Fine Tuning / RAG / InstructLab Method
 
 There are three approaches for model adaptation:
-*taken from* ![What is InstructLab and why do developers need it?](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/)
+*taken from* [What is InstructLab and why do developers need it?](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/)
 by ![Syeda Ameena Begum]
 
 **Prompt tuning** – Adjusts large foundational models for new tasks using soft prompts integrated with data. Models’ weights are frozen.

@@ -10,6 +10,6 @@ Join Máirín Duffy from Red Hat to explore:
 - Apache 2.0 licence
 - open community data set
 
-![Open Source and InstructLab](images/opensource.png)
+![Open Source and InstructLab](graphics/opensource.png)
 
 [Link to the video - "What is the InstructLab community project?"](https://youtu.be/CnHBjDfiWjo?si=YqxxTklqMrNeiFFG)

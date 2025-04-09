@@ -13,4 +13,4 @@
 
 ---
 
-![The problem with LLMs](images/image2.png)
+![The problem with LLMs](graphics/image2.png)

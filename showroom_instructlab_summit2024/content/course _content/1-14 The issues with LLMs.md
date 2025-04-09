@@ -1,25 +1,20 @@
 
 
-# Why InstructLab
+# The issue of LLMs
 
-Large Language Models (LLMs) have the ability to fuel a diverse array of practical applications, like having a virtual assistant that can chat with you, help you with coding, or even generate content for your next marketing email. 
+![The issues with LLMs](graphics/theproblemswithllms.png)
 
-# InstructLab helps:
-    
-- ## by keeping LLMs fresh and up todate with the latest information and skills
-- ## to 'tweek' models to enhance elements of their knowledge or skills
-- ## to update rather than augment with RAG
-- ## by democratising LLM training 
-- ## a simplified means add data without complex and highly skilled Fine-tuning 
-- ## to train SLM models in the area of expertise relevant to their business applicaiton
+---
+# Comparison of LLMs and SLMs
 
 
-# The Challenge with LLM's - and why we use SML's 
-
-To adjust the parameters and train the open source model **Llama 2-70B** from Meta.ai, you need approximately **6000 GPUs** and you will then need to run the training for about **12 days**, which ends up costing approximately **$2 million**.
-
-
-Read more about this in this great article, by [Sydea Ameena begum](https://developer.ibm.com/profiles/syedame1/)
-[What is InstructLab and why do developers need it](https://developer.ibm.com/profiles/syedame1/)
-
+| Attribute | LLM | SLM | 
+| --- | --- | --- |
+| Typical Size | Billions to trillions of paramaters| Few million to several billion paramaters|
+| Accessibility | Require multiple GPUs | Require less GPUs |
+| Latancy | Higher | Lower |
+| Sustainability |Higher Carbon Footprint| Lower Carbon Footprint|
+| Typical Content | Scraped from the internet and all available sources | Typically specifically curated |
+| Uses | General and specific| General and specific |
+| Time to train | ~Weeks to months | ~Hours to weeks|
 

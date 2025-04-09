@@ -1,6 +1,6 @@
 # Skills Overview
 
-![Skills overview](images/skillsoverview.png)
+![Skills overview](graphics/skillsoverview.png)
 
 Link to more details on skills and knowledge q&a 
 

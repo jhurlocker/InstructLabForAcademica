@@ -1,37 +1,39 @@
-# 1. Agenda for workshop
-# 2. Overview of objectives
-# 3. Language model 
-- Understand LLM/SLMs and the current challenges
-- LLM vs SLM
-- Open Source vs Proprietary
-- Apache 2.0 License for InstructLab and Granite
-- reduce bias through diversity
+# Agenda
+
+
+# 1. Overview of objectives
+- list of contributors
+
+# 2 . Introducing InstructLab  *(20 minutes)*
+- What is an LLM/SLM
+- The Problem with LLMs
+- InstructLab a community driving project
+- What is InstructLab
+- History of InstructLab
+- InstructLabs Key Innovations
 - Fine tuning / RAG / InstructLab
-- Catastrophic Forgetting and other issues
-- Privacy of trade secrets or corporate policies
-- Cost implications
 - Herd of Llamas
+- Democratize generative AI 
 
 
-# 4. Understand InstructLab Methodology
+
+# 3. Understand InstructLab Methodology *(10 minutes)*
 - A brief history of InstructLab
 - LAB paper overview
 - LAB paper - link to short video
-- Democratize generative AI 
-- *MAYBE REMOVE* - Democratize generative AI
 - Technical exerience needed 
-- *REMOVE ALREADY COVERED* -  Community driven development
-- *REMOVE ALREADY COVERED* - Minimum technical experience needed
-- *REMOVE ALREADY COVERED* - Ease of use for SMEs
 
-# 5. InstructLab Taxonomy and files for training
+
+# 4. InstructLab Taxonomy and files for training *(10 minutes)*
 - Taxonomy
 - Knowledge qna file
 - Knowledge documents (markdown or pdf)
 - Skills qna file
 - Attribution file
 
-# 6. Synthetic Data Generation and Training a Model
+# 5. Hands-on-Lab 1 & Break  *(40 minutes)*
+
+# 6. Synthetic Data Generation and Training a Model *(20 mins)*
 - Synthetic Data Generation
 - Student Model
 - Teacher Model
@@ -39,11 +41,19 @@
 - advantages of Synthetic Data Generation
 - amplifies examples created by community
 - Multiphased tuning
-- UI
 - yaml validation
- 
-# 7. RedHat InstructLab Hands-on Lab
+- reduce bias through diversity
+- Catastrophic Forgetting and other issues
 
-# 8. InstructLab GUI Hands-on Lab
+# 7. InstructLab GUI Hands-on Lab and Break
+
+# 8. Open-source, Apache 2.0, and Privacy
+-  Open Source vs Proprietary
+-  Apache 2.0 License for InstructLab and Granite
+-  Privacy of trade secrets or corporate policies
+-  Cost implications
 
 # 9. InstructLab open-book badge exam
+
+
+

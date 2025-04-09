@@ -2,7 +2,7 @@
 
 From IBM Research to RedHat and the world of Open Source
 
-![Histroy of Instructlab](images/history.png)
+![Histroy of Instructlab](graphics/history.png)
 
 ---
 

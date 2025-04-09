@@ -10,7 +10,7 @@ Let's start by understanding what a Large Language Model (LLM) is, and then we c
 # Let's see what ChatGPT has to say about LLMs!
 
 
-![What is an LLM and how are they different from SLMs](images/image1.png)
+![What is an LLM and how are they different from SLMs](graphics/image1.png)
 
 Of course ChatGPT is not the only LLM, however, it was the first one release commercially!
 

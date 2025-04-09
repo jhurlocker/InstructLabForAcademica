@@ -1,6 +1,6 @@
 # Catastrophic Forgetting and more....
 
-![The challenges with fine tuning](images/FTChallenge.png)
+![The challenges with fine tuning](graphics/FTChallenge.png)
 
 ## Data Scarcity and Domain Mismatch
 Finding an extensive dataset for a particular task or domain can be challenging. Which can lead to domain mismatch and subpar performance

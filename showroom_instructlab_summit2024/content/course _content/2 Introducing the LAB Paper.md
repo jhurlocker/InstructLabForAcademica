@@ -4,7 +4,7 @@
 
 A faster, systematic way to train large language models for the enterprise!
 
-![LAB Paper](images/labpaper.png)
+![LAB Paper](graphics/labpaper.png)
 
 
 IBM’s new synthetic data generation method and phased-training protocol allows enterprises to update their Language Models with task-specific knowledge and skills, taking some of the guesswork out of training generative AI models.

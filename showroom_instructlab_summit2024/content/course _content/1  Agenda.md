@@ -5,10 +5,10 @@
 - list of contributors
 
 # 2 . Introducing InstructLab  *(20 minutes)*
-- What is an LLM/SLM
-- The Problem with LLMs
-- InstructLab a community driving project
-- What is InstructLab
+- Introducing InstructLab
+- A brief history of AI
+- The Issues with LLMs
+- How InstructLab helps
 - History of InstructLab
 - InstructLabs Key Innovations
 - Fine tuning / RAG / InstructLab

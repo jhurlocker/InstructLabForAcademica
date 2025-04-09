@@ -12,4 +12,4 @@ by ![Syeda Ameena Begum]
 Let’s explore each method to determine the ideal choice for different scenarios. See the following table.
 
 
-![InstructLab](images/modeladaption.png)
+![InstructLab](graphics/modeladaption.png)

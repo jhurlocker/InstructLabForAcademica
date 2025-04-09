@@ -14,7 +14,7 @@ We have:
 
 
 1. InstructLab leverages a Teacher Model to generate new Question and Answer pairs (based on the seed examples in the qna.yaml file supported by any documents *.md, and *.pdf)
-    - The training doe not using knowledge stored by the Teacher Model
+    - The training does not use knowledge stored by the Teacher Model
     - The method utilizes particular prompt templates that dramatically expand the dataset
     - InstructLab makes sure that the new examples maintain the structure and intent of the origninal human-curated data 
 
@@ -43,17 +43,7 @@ The questions and answers are grounded in documents. Then we go through to gener
 
 ![Knowledge Generation](images/knowledgegeneration.png)
 
-## Multi-phase Training
-
-Training happens in 2 phasees 
-1. Knowledge - which is split into two steps:
-    - Knowledge with short responses
-    - knowledge with long responses
-
-2. Compositional Skills
-
-**Replay buffers** are ued to replay training data from previous steps during the current training step **to avoid catastrophic forgetting**
+# Refer to ['Large-scale synthetic data generation' section of What is InstructLab and why do developers need it by Syeda Ameena Begum](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/#large-scale-synthetic-data-generation2)
 
 
-![SDG process](images/SDGprocess.png)
 

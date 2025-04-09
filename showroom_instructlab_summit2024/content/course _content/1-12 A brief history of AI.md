@@ -1,6 +1,6 @@
 # A brief history of AI
 
-*Please note machine learning algorithums date back well before the 1980's.  Turing gave quite possibly the earliest public lecture (London, 1947) to mention computer intelligence, saying, “What we want is a machine that can learn from experience,” and that the “possibility of letting the machine alter its own instructions provides the mechanism for this.” In 1948 he introduced many of the central concepts of AI in a report entitled “Intelligent Machinery.” [link](https://www.britannica.com/science/history-of-artificial-intelligence)*
+*Please note machine learning algorithums date back well before the 1980's.  "Alan Turing gave quite possibly the earliest public lecture (London, 1947) to mention computer intelligence, saying, “What we want is a machine that can learn from experience,” and that the “possibility of letting the machine alter its own instructions provides the mechanism for this.” In 1948 he introduced many of the central concepts of AI in a report entitled “Intelligent Machinery.” [link](https://www.britannica.com/science/history-of-artificial-intelligence)*
 
 ![1980 to today](graphics/abriefhistoryofai1.png)
 

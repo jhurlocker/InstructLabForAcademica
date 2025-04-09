@@ -2,7 +2,7 @@
 
 *Please note machine learning algorithums date back well before the 1980's
 
-![1980 to today](graphics/communitydrivenproject.png)
+![1980 to today](graphics/abriefhistoryofai1.png)
 
 ## What are Large Language Models ? 
 

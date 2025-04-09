@@ -8,5 +8,5 @@
 - ### Hands on experience of InstructLab
 - ### Achieve InstructLab badge
 
-![InstructLab](images/il-banner.jpeg)
+![InstructLab](graphics/il-banner.jpeg)
 

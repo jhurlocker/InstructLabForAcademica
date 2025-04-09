@@ -1,5 +1,3 @@
-
-
 # Overview of objectives
     
 - ### Understand LLM/SLMs and the challenges associated with updating them 

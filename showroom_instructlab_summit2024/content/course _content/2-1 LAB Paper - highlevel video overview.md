@@ -2,7 +2,7 @@
 
 ## High-level overview of the LAB paper (video)
 
-![LAB Paper](images/labpaper2.png)
+![LAB Paper](graphics/labpaper2.png)
 
 - ## Taxonomy based approach (as opposed to a blender approach)
 - ## Synthetic Data Generation - with a Teacher Model

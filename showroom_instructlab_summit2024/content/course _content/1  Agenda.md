@@ -28,9 +28,9 @@
 - Skills qna file
 - Attribution file
 
-# 5. Hands-on-Lab 1 & Break  *(40 minutes)*
+# 4. Hands-on-Lab 1 & Break  *(40 minutes)*
 
-# 6. Synthetic Data Generation and Training a Model *(20 mins)*
+# 5. Synthetic Data Generation and Training a Model *(20 mins)*
 - Synthetic Data Generation
 - Student Model
 - Teacher Model
@@ -42,15 +42,15 @@
 - reduce bias through diversity
 - Catastrophic Forgetting and other issues
 
-# 7. InstructLab GUI Hands-on Lab and Break
+# 6. InstructLab GUI Hands-on Lab and Break
 
-# 8. Open-source, Apache 2.0, and Privacy
+# 7. Open-source, Apache 2.0, and Privacy
 -  Open Source vs Proprietary
 -  Apache 2.0 License for InstructLab and Granite
 -  Privacy of trade secrets or corporate policies
 -  Cost implications
 
-# 9. InstructLab open-book badge exam
+# 8. InstructLab open-book badge exam
 
 
 

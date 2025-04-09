@@ -4,10 +4,10 @@ To understand how LLM/SLM tuning is being democratized we need to understand how
 
 ## Fine Tuning / RAG / InstructLab Method
 
-![Traditional ways to Tune an LLM](graphics/RAGFT.png)
+![Traditional ways to Tune an LLM](graphics/ragfinetune.png)
 ***
 
-![InstructLab](graphics/ILnewmethod.png)
+![InstructLab](graphics/ILpros.png)
 
 
 ## InstructLab does not require you to be:

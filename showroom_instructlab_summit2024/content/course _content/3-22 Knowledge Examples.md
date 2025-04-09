@@ -1,3 +1,3 @@
 # Knowledge Examples
 
-![Knowledge examples](images/Knowledgeexamples.png)
+![Knowledge examples](graphics/Knowledgeexamples.png)

@@ -1,6 +1,6 @@
 # Knowledge qna.yaml file
 
-![qna.yaml file](images/qnayaml1.png)
+![qna.yaml file](graphics/qnayaml1.png)
 
 
 # Hints and Tips

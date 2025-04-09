@@ -21,12 +21,12 @@
 - LAB paper overview
 - LAB paper - link to short video
 
-# 3. InstructLab Taxonomy and files for training *(10 minutes)*
+# 3. InstructLab - Taxonomy and files for training *(10 minutes)*
 - Taxonomy
-- Knowledge qna file
+- Knowledge
 - Knowledge documents (markdown or pdf)
-- Skills qna file
-- Attribution file
+- Skills
+- Attribution
 
 # 4. Hands-on-Lab 1 & Break  *(40 minutes)*
 

@@ -3,16 +3,14 @@
 
 Synthetic Sata Generation (SDG) is a little bit like following a recipie!
 
-
-
 We have:
 - A Student model - who learns about the new data (typically a smaller model)
 - A Teacher Model - which is preferably a big model to create the synthetic data 
 - A Critique Model - to evaluate the newly synthetically generated data
 
 - we need our *'recipie files'* qna.yaml, *.md, and attribution.txt
-- We add our files to the appropriate location leaf node in the Taxonomy
 
+![SDG process](graphics/processoftraining.png)
 
 
 1. InstructLab leverages a Teacher Model to generate new Question and Answer pairs (based on the seed examples in the qna.yaml file supported by any documents *.md, and *.pdf)

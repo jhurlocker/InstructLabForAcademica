@@ -1,6 +1,6 @@
 # InstructLab Taxonomy
 
-![InstructLab example taxonomy tree](images/iltaxonomytree.png)
+![InstructLab example taxonomy tree](graphics/iltaxonomytree.png)
 
 # The InstructLab LAB Method:
 ## - is driven by taxonomies, which are largely created manually and with care.

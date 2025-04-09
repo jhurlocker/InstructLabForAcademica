@@ -15,8 +15,8 @@ To understand how LLM/SLM tuning is being democratized we need to understand how
 - **Able to write code such as python or other languages**
 
 ## You need to be
-- **knowledgeable about the knowledge or skills you are adding to the LLM/SLM**
-- **computer literate**
+- **Knowledgeable about the knowledge or skills you are adding to the LLM/SLM**
+- **Computer literate**
 
 ## InstructLab is:
 - **Either GUI based or driven through a terminal window**

@@ -1,9 +1,10 @@
 # What is an LLM / SLM
 
-Let's start by understanding what a Large Language Model (LLM) is and then we can look at what a Small Language Model (SML) is. 
+Let's start by understanding what a Large Language Model (LLM) is, and then we can look at Small Language Models (SMLs). 
 
 
 ![InstructLab](graphics/whatisaanllmslm.png)
+
 ---
 
 # Let's see what ChatGPT has to say about LLMs!
@@ -12,6 +13,7 @@ Let's start by understanding what a Large Language Model (LLM) is and then we ca
 ![What is an LLM and how are they different from SLMs](images/image1.png)
 
 Of course ChatGPT is not the only LLM, however, it was the first one release commercially!
+
 
 ---
 
@@ -28,3 +30,19 @@ In 2025 Small Language Models, have become more prevelent in the market.  They p
 LLMs have predominatly been trainined with public available information, however, they have not been trained with data from organisations, so they do not bring their benefits to organisations, with out being augmented or trained which can be costly. 
 
 If you want to find out more about an SSL - Check out Granite - IBM’s **open source based family of LLMs**  at https://www.ibm.com/granite 
+
+---
+
+
+# Comparison of LLMs and SLMs
+
+
+| Attribute | LLM | SLM | 
+| --- | --- | --- |
+| Typical Size | Billions to trillions of paramaters| Few million to several billion paramaters|
+| Accessibility | Require multiple GPUs | Require less GPUs |
+| Latancy | Higher | Lower |
+| Sustainability |Higher Carbon Footprint| Lower Carbon Footprint|
+| Typical Content | Scraped from the internet and all available sources | Typically specifically curated |
+| Uses | General and specific| General and specific |
+| Time to train | ~Weeks to months | ~Hours to weeks|

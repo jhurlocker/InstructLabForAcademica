@@ -1,10 +1,25 @@
 # What is an LLM / SLM
 
+Let's start by understanding what a Large Language Model (LLM) is and then we can look at what a Small Language Model (SML) is.  What better way to find out than by asking ChatGPT!
+
+
 ![InstructLab](graphics/whatisaanllmslm.png)
 
-ChatGPT is not the only LLM, however, it was the first one release commercially!
+ChatGPT is not the only LLM, however, it was the first one release commercially!  If we ask ChatGPT what an LLM is we get the following answer....
 
-IN 2025 Small Language Models - have become more prevelent in the market.  They provide many benefits, such as lower costs for inferancing, requiring less compute power, being focused on specific topics. DeepSeek, notably came into the spotlight at the start of 2025 showing that a small LLM can be very impactful!
+![What is an LLM and how are they different from SLMs](images/image1.png)
+
+---
+
+# Small Language Models (SLMs)
+
+"Small language models (SLMs) are artificial intelligence (AI) models capable of processing, understanding and generating natural language content. As their name implies, **SLMs are smaller in scale and scope than large language models (LLMs)**."
+
+Quote by Rina Diane Carallar full article can be found [here](https://www.ibm.com/think/topics/small-language-models#:~:text=Small%20language%20models%20(SLMs)%20are,large%20language%20models%20(LLMs).)
+
+Small Language Models althought they contain less information are often focused on a specific field or set of topics.  Due to their smaller nature, they can be much more efficent to work with.   The Granite model uses 97% less energy than the largest LLMs, and is designed to be small and for purpose, containing curated information. 
+
+In 2025 Small Language Models, have become more prevelent in the market.  They provide many benefits, such as lower costs for inferancing, requiring less compute power, being focused on specific topics. DeepSeek, notably came into the spotlight at the start of 2025 showing that a small LLM can be very impactful!
 
 LLMs have predominatly been trainined with public available information, however, they have not been trained with data from organisations, so they do not bring their benefits to organisations, with out being augmented or trained which can be costly. 
 

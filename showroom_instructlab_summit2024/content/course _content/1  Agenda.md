@@ -1,12 +1,13 @@
 # Agenda
 
 
-# 1. Overview of objectives
+# Overview of objectives
 - list of contributors
 
-# 2 . Introducing InstructLab  *(20 minutes)*
+# 1 . Introducing InstructLab  *(20 minutes)*
 - Introducing InstructLab
 - A brief history of AI
+- What is an LLM SLM?
 - The Issues with LLMs
 - How InstructLab helps
 - History of InstructLab
@@ -16,15 +17,11 @@
 - Democratize generative AI 
 
 
-
-# 3. Understand InstructLab Methodology *(10 minutes)*
-- A brief history of InstructLab
+# 2. Understand InstructLab Methodology *(10 minutes)*
 - LAB paper overview
 - LAB paper - link to short video
-- Technical exerience needed 
 
-
-# 4. InstructLab Taxonomy and files for training *(10 minutes)*
+# 3. InstructLab Taxonomy and files for training *(10 minutes)*
 - Taxonomy
 - Knowledge qna file
 - Knowledge documents (markdown or pdf)

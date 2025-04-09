@@ -4,15 +4,22 @@
 
 ![1980 to today](graphics/communitydrivenproject.png)
 
-What are Large Language Models ? Let’s start by getting a high-level overview of what LLMs (a subset of foundation models) are and why they are relevant today.
- 
+## What are Large Language Models ? 
+
+
+Let’s start by getting a high-level overview of what LLMs (a subset of foundation models) are and why they are relevant today.
+
+
 AI has evolved from ruled-based expert systems to machine learning models, such as support vector machines and tree-based models, that are able to learn patterns in the data and make predictions. 
- 
-Machine learning models were then followed by Neural Networks and Deep Learning models. 
- 
+
+
+Machine learning models were then followed by Neural Networks and Deep Learning models.
+
+
 These models mimic human brain functions, can learn representations from vast amounts of data where these representations are task specific.
 and can provide more accurate predictions. 
- 
+
+
 In 2017, Google presented at Neurips a paper called “Attention is all you need” that introduce a new complex neural network architecture called “transformer” with an attention mechanism. Since then FMs emerged as a new paradigm for building AI systems that can learn powerful and generalizable representations and therefore are able to provide improved predictions.
 
 ---
@@ -24,12 +31,16 @@ In 2017, Google presented at Neurips a paper called “Attention is all you need
 ![Traditional AI Models vs Foundation Models](graphics/traditionalaivsfoundation.png)
 
 ## The main difference between pre-gen AI models and foundations models. 
- 
+
+
 Classical AI models are trained to perform specific tasks using specific datasets/studies and even though they can achieved impressive predictive performance for specific use cases and dataset they tend to overfit to the training data. 
- 
+
+
 This results in models with high predictive performance on the specific dataset used for the development of the model but poor predictive performance when applied to new, unseen data. 
- 
+
+
 Many traditional AI models in fact fail to generalize well across different domains, populations, or clinical contexts. 
- 
+
+
 This has highlighted the need for more robust and flexible approaches, such as Foundation models, that can learn generally from large unlabelled datasets of multiple modalities and can be then fine-tuned to specific downstream tasks.
 

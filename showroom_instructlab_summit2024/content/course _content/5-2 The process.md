@@ -10,6 +10,7 @@ We have:
 
 - we need our *'recipie files'* qna.yaml, *.md, and attribution.txt
 
+---
 
 ![SDG process](graphics/processoftraining.png)
 
@@ -51,7 +52,7 @@ The questions and answers are grounded in documents. Then we go through to gener
 
 ---
 
-# Refer to ['Large-scale synthetic data generation' section of What is InstructLab and why do developers need it by Syeda Ameena Begum](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/#large-scale-synthetic-data-generation2)
+ Refer to ['Large-scale synthetic data generation' section of What is InstructLab and why do developers need it by Syeda Ameena Begum](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/#large-scale-synthetic-data-generation2)
 
 
 

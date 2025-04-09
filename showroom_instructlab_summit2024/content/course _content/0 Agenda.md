@@ -32,15 +32,12 @@
 
 # 5. Synthetic Data Generation and Training a Model *(20 mins)*
 - Synthetic Data Generation
-- Student Model
-- Teacher Model
-- Critic Model
+- Models
+- The Process
 - advantages of Synthetic Data Generation
-- amplifies examples created by community
 - Multiphased tuning
-- yaml validation
-- reduce bias through diversity
-- Catastrophic Forgetting and other issues
+
+
 
 # 6. InstructLab GUI Hands-on Lab and Break
 
@@ -48,9 +45,14 @@
 -  Open Source vs Proprietary
 -  Apache 2.0 License for InstructLab and Granite
 -  Privacy of trade secrets or corporate policies
--  Cost implications
 
-# 8. InstructLab open-book badge exam
+# 8. Other items
+-  yaml validation
+-  Replay Buffers and Catastrophic Forgetting and other issues
+-  Amplifies examples created by community
+-  reduce bias through diversity
+
+# 9. InstructLab open-book badge exam
 
 
 

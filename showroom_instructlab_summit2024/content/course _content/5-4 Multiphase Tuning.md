@@ -15,7 +15,7 @@ This phase integrates new factual information, divided into training on short re
 2. Compositional Skills
 This phase enhances the model's ability to apply knowledge across various tasks and contexts for compositional skills
 
-¡[Multiphase Tuning](graphics/multiphasetuning.png)
+![Multiphase Tuning](graphics/multiphasetuning.png)
 
 **Replay buffers** are ued to replay training data from previous steps during the current training step **to avoid catastrophic forgetting**
 

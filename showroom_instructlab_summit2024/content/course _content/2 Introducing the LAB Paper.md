@@ -6,6 +6,10 @@ A faster, systematic way to train large language models for the enterprise!
 
 ![LAB Paper](graphics/labpaper.png)
 
+---
+
+The Methodology behind InstructLab
+:bulb:**A method to enable community-driven development and model evolution**
 
 IBM’s new synthetic data generation method and phased-training protocol allows enterprises to update their Language Models with task-specific knowledge and skills, taking some of the guesswork out of training generative AI models.
 

@@ -6,13 +6,13 @@ InstructLab implements a multiphase training process to incrementally improve th
 
 
 Training happens in 2 phasees 
-1. Knowledge - which is split into two steps:
+1. **Knowledge** - which is split into two steps:
     - Knowledge with short responses
     - knowledge with long responses
 
 This phase integrates new factual information, divided into training on short responses followed by long responses and foundational skills
 
-2. Compositional Skills
+2. **Compositional Skills**
 This phase enhances the model's ability to apply knowledge across various tasks and contexts for compositional skills
 
 ![Multiphase Tuning](graphics/multiphasetuning.png)

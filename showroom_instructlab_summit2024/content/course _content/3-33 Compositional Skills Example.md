@@ -9,7 +9,7 @@
 - Speak like Yoda
 - Convert to camel case
 - Write me a limerick
-- Generate StableDiffusion prompts
+- Generate Stable Diffusion prompts
 
 ---
 
@@ -21,3 +21,4 @@
 - Game creation like Sudoku or tic-tac-toe
 - Summarizing or extracting from a piece of text
 - Find unresolved items in a meeting transcript
+- Classifying patient risk in a healthcare situation

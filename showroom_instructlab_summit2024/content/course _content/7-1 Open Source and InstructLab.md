@@ -1,9 +1,9 @@
 # Open Source and InstructLab
 
-InstructLab is an open source project for customizing large language models (LLMs) and small language models (SLMs). Developed by IBM and Red Hat, InstructLab provides a cost-effective solution to improve alignment of language models and opens doors to those with minimal machine learning experience to contribute to customizing language models.
+:bulb:InstructLab is an open source project for customizing large language models (LLMs) and small language models (SLMs). Developed by IBM and Red Hat, InstructLab provides a cost-effective solution to improve alignment of language models and opens doors to those with minimal machine learning experience to contribute to customizing language models.  Community contributions to AI models become possible with InstructLab through the simple workflow and open-source licencing. 
 
-Join Máirín Duffy from Red Hat to explore:
-- the challenge of contributing to an AI model 
+:bulb:Join Máirín Duffy from Red Hat to explore:
+- the challenge of contributing to an AI model, which today impacts the ability to contribute to AI models 
 - how anyone can contribut knowledge and skills to a model
 - what Makes InstructLab open source
 - how anyone can be part of this open source community

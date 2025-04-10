@@ -14,11 +14,15 @@ To understand how LLM/SLM tuning is being democratized we need to understand how
 - **Data Scientist**
 - **Able to write code such as python or other languages**
 
-## You need to be
+## :bulb:You need to be
 - **Knowledgeable about the knowledge or skills you are adding to the LLM/SLM**
 - **Computer literate**
+- **Able to create an account in GitHub public organisation to access the InstructLab GUI**
 
-## InstructLab is:
-- **Either GUI based or driven through a terminal window**
+
+## :bulb:InstructLab is:
+- **Either GUI based or driven through a terminal window - Having the GUI means anyone can contribut knowledge with out familiarity, of YAML, GitHub, Machine Learning, or coding!**
+
+-
 
 ![InstructLab GUI](graphics/ilgui.png)

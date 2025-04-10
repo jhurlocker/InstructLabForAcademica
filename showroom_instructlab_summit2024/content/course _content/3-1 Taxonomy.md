@@ -4,6 +4,7 @@
 
 # :bulb: The InstructLab LAB Method:
 ### - Is driven by taxonomies, which are largely created manually and with care.
+### - The taxonomy tree catagorises knowledge, it helps you identify where knowledge should go, identify gaps in training data, and is custoisable
 ### - Has a repository that contains a taxonomy tree (heriarchical map) that allows you to create models tuned with your data (enhanced via synthetic data generation) using the LAB 🐶 method.
 ### - When contributing Knowledge or Skills back to the community you should add to the Taxomony system following the [Dewey Decimal Classifications DDC](https://www.oclc.org/content/dam/oclc/dewey/resources/summaries/deweysummaries.pdf)
 

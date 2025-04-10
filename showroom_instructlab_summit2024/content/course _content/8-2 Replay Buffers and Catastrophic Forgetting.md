@@ -19,3 +19,8 @@ Hyperparameter tuning is the process of optimizing the settings (hyperparameters
 
 ## Evaluation Metrics
 Evaluation metrics are used to identify the performance of your LLM. These can be challenging to set and interpret, however, they are essential to identify the quality of your model. 
+
+**:bulb:Replay buffers** are ued to replay training data from previous steps during the current training step **to avoid catastrophic forgetting**
+
+**Catastrophic Forgetting**
+The challenge of forgetting information as you learn new information.  As weights in an LLM are altered, existining information is impacted or forgotton.  Replay buffers help prevent this by keeping old information fresh with updates from the Taxonomy as new data is added. 

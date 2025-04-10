@@ -1,6 +1,6 @@
 # Synthetic Data Generation and Training a Model
 
-In this section we will look at the challenges of Synthetic Data Generation (SDG) and the process for training a model.
+:bulb:In this section we will look at how using InstructLab you can create high quality training data - Synthetic Data Generation (SDG), and the challenges associated with alternative methods for creating training data.  Along with how we use the SDG to train the model and how that process works. 
 
 ## Synthetic Data Generation Challenges
 

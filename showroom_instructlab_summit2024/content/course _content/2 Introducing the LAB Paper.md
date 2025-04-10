@@ -1,6 +1,6 @@
 # The LAB Paper
 
-## Large-scale Alignment for chatBots (LAB) Concepts
+## :bulb:Large-scale Alignment for chatBots (LAB) Concepts
 
 A faster, systematic way to train large language models for the enterprise!
 

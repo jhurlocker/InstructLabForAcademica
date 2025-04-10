@@ -2,7 +2,7 @@
 # Multi-phase tuning framework
 
 
-InstructLab implements a multiphase training process to incrementally improve the model's performance. This phased approach helps maintain training stability and a replay buffer of the data prevents catastrophic forgetting, allowing the model to continuously learn and improve. 
+:bulb:InstructLab implements a multiphase training process to incrementally improve the model's performance whilst preserving previously learned. This phased approach helps maintain training stability and a replay buffer of the data prevents catastrophic forgetting, allowing the model to continuously learn and improve. 
 
 
 Training happens in 2 phasees 
@@ -17,7 +17,7 @@ This phase enhances the model's ability to apply knowledge across various tasks 
 
 ![Multiphase Tuning](graphics/multiphasetuning.png)
 
-**Replay buffers** are ued to replay training data from previous steps during the current training step **to avoid catastrophic forgetting**
+**:bulb:Replay buffers** are ued to replay training data from previous steps during the current training step **to avoid catastrophic forgetting**
 
 ---
 

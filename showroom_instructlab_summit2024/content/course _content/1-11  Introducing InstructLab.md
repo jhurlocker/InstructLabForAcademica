@@ -4,7 +4,7 @@
 
 ---
 
-Large Language Models (LLMs) are the new frontier in data insights, but they are only as knowledgeable as the information they contain. We live in a data-driven world, where new information is generated every second. For organizations and enterprises, data is stored internally, meaning that to fully leverage an LLM, these organizations need to integrate their proprietary data into their private LLM. However, customizing or tailoring LLMs has been a significant challenge. This is where InstructLab comes in to overcome that challenge and much more.
+:bulb:Large Language Models (LLMs) are the new frontier in data insights, but they are only as knowledgeable as the information they contain. We live in a data-driven world, where new information is generated every second. For organizations and enterprises, data is stored internally, meaning that to fully leverage an LLM, these organizations need to integrate their proprietary data into their private LLM. However, customizing or tailoring LLMs has been a significant challenge. This is where InstructLab comes in to overcome that challenge enabling organisations and indivisuals to customize LLMs for business needs, and much more.
 
 InstructLab enables a prescriptive approach to LLM development, allowing individuals to define what a model knows and what it can do using a taxonomy.
 

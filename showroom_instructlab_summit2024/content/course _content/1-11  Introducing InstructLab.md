@@ -10,6 +10,6 @@ InstructLab enables a prescriptive approach to LLM development, allowing individ
 
 Prior to InstructLab, new knowledge could only be added to a model via Fine Tuning, which is costly and resource-intensive. To address this, InstructLab provides a multi-phased, large-scale alignment tuning process that enables you to integrate knowledge that you Syntheticly Generate.
 
-InstructLab is an open-source project, which means not only can you contribute to its development, but you can also play a part in the ongoing evolution of LLMs in a controlled and governed manner.
+InstructLab is an open-source project, which means not only can anyone contribute to its development, but you can also play a part in the ongoing evolution of LLMs in a controlled and governed manner.
 
 Before we dive into the details of InstructLab, let’s explore how we got here!

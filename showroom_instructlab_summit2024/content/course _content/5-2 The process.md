@@ -32,9 +32,11 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Lega
     - The method utilizes particular prompt templates that dramatically expand the dataset
     - InstructLab makes sure that the new examples maintain the structure and intent of the origninal human-curated data 
 
-![SDG Taxonomy driven SDG](graphics/Taxonomy%20driven%20sdg.png)
+!:bulb:[SDG Taxonomy driven SDG](graphics/Taxonomy%20driven%20sdg.png)
 
-- with a Taxonomy model it is feasible to ensure that you flatten out the SDG accross all topics so your data is not skewed, you want to avoid having a peak of data in an aread where the Teacher model has excellent knowledge - also providing and good distributed set of data in the input will promote this.
+- with a Taxonomy model it is feasible to ensure that you flatten out the SDG accross all topics so your data is not skewed, you want to avoid having a peak of data in an aread where the Teacher model has excellent knowledge.  This process normalizes the synthetic data across different taxonomy nodes. 
+- providing a good distributed set of data in the input will promote this.
+
 
 ---
 

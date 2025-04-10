@@ -1,6 +1,9 @@
 # Synthetic Data Generation and Training a Model
 
-:bulb:In this section we will look at how using InstructLab you can create high quality training data - Synthetic Data Generation (SDG), and the challenges associated with alternative methods for creating training data.  Along with how we use the SDG to train the model and how that process works. 
+:bulb:In this section we will look at:
+- how InstructLab creates high quality training data (or SDG data) from a few seed examples 
+- the challenges associated with alternative methods for creating training data.  
+- how we use the SDG to train a model and how that process works. 
 
 ## Synthetic Data Generation Challenges
 
@@ -12,16 +15,21 @@ LLMs are are generally trainined using Self-Supervised learning, from vast amoun
 
 - **Training on Question-Answer Pairs:** While the model is trained on a huge range of text, some of this data can include question-answer pairs (from sources like forums, FAQs, or datasets created specifically for tasks like QA). The model learns to associate questions with possible answers in a way that generalizes to answering a wide variety of questions. But this is still part of the broader language modeling process, which doesn't rely solely on QA pairs.
 
-- **Unsupervised Aspect:** The "unsupervised" part comes from the fact that the model isn't explicitly given human-labeled supervision like, "this is the right answer for this question." Instead, it learns from the data itself and uses statistical patterns to form connections.
+- **Unsupervised Aspect:** The "unsupervised" part comes from the fact that the model isn't explicitly given human-labeled supervision like, "this is the right answer for this question." Instead, it learns from the data itself and uses statistical patterns to form connections.]
+
+**In summary**, LLMs are trained using self-supervised learning, with vast amounts of text data, including but not limited to question-answer pairs. The model doesn't need explicit Q&A pairs but can learn to generate relevant answers based on context due to its exposure to language patterns during training.
+
+---
 
 ## To train with InstructLab.....
 
-To train with InstructLab the following is require:
-- Q and A pairs, that are created (using SDG) from a handfull of seed examples to create many (100's to 100,000s)
+:bulb:To train with InstructLab the following is require:
+- A few Question and Answer seed pairs (as few as 5 can be used), which will be amplified to create many (100's to 100,000s) of Question and Answer pairs for tuning. 
 - Contextual data 
 - Attribution details
+
+This process amplifies connumity contributions by creating more training examples. 
 
 We will discuss these in this next section
 
 ---
-**In summary**, LLMs are trained using self-supervised learning, with vast amounts of text data, including but not limited to question-answer pairs. The model doesn't need explicit Q&A pairs but can learn to generate relevant answers based on context due to its exposure to language patterns during training.

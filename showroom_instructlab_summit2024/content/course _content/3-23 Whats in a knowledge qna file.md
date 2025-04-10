@@ -7,7 +7,7 @@
 
 3. `domain`: Specify the category of the knowledge.
 
-4. `seed_examples`: A collection of key/value entries.
+4. `seed_examples`: :bulb: A collection of key/value entries (you must have atleast 5)
 
     i. `context`: A chunk of information from the knowledge document. Each qna.yaml needs five context blocks and has a maximum word count of 500 words.
 

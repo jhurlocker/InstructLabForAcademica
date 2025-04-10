@@ -3,7 +3,9 @@
 **:bulb:Open source software (OSS)** 
 - is source code developed and maintained through open collaboration 
 - anyone can use, examine, alter and redistribute OSS as they see fit
-- typically it has no cost - although support can sometimes be purchased for OOS
+- typically it has no cost - although support can sometimes be purchased for OSS
+- with OSS you never have the situation that software is discontinued or lost if the vendor goes out of business, as you have access to the code through the OSS project. 
+- Business who take OSS can fork the software and maintian their own branch, this is sometimes seen as a good insurance policy as the business has access to the base code. 
 
 **:bulb:Proprietary or closed source software applications** such as Microsoft Word or Adobe Illustrator. 
 - the creator or copyright holder sells the proprietary or closed source software to end users, who are not allowed to edit, enhance or redistribute the product except as specified by the copyright holder.

@@ -29,3 +29,10 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn) and [Legar
 | Uses | General and specific| General and specific |
 | Time to train | ~Weeks to months | ~Hours to weeks|
 
+# The Challenges of LLMs - maintaining and training
+From the short list of compairsons you can understand why training large language models (LLMs) is expensive due to the immense computational resources, large amounts of data, and specialized expertise required. These factors contribute to high infrastructure costs, data acquisition and preparation expenses, and the salaries of the highly skilled personnel involved. 
+
+:bulb: *To Train an open source LLM in a traditional manner the primary challenge is cost of computing resuourses and skills!*
+  
+
+

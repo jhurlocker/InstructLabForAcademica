@@ -1,6 +1,6 @@
-# Quantised Models and GUFF Files
+# Quantized Models and GUFF Files
 
-# :bulb:Quantised Model 
+# :bulb:Quantized Model 
 
 [More information at huggingface.com](https://huggingface.co/docs/optimum/en/concept_guides/quantization)
 

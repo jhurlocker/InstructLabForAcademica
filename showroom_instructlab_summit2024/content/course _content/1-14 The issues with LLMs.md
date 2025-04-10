@@ -5,6 +5,17 @@
 ![The issues with LLMs](graphics/theproblemswithllms.png)
 
 ---
+# The LLM challenge: Low-quality data to build LLMs
+
+As the competition in the LLM space intensifies, the approach seems to be to build increasingly massive models trained from vast amounts of information from the public internet. However, large parts of the internet include redundant information or non-natural language data that does not contribute to the model's core functionality.
+
+For instance, 80% of tokens used to train the LLM GPT-3, upon which later versions are built, originates from Common Crawl, which includes an enormous array of web pages. This dataset is known to contain a mix of high-quality text, low-quality text, scripts and other non-natural language data. It is estimated that a significant fraction of the data may be non-useful or low-quality content. (Common Crawl Analysis)
+
+Taken from ["how InstructLab's synthetic data generation enhances LLMs"](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
+
+by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn) and [Legare Kerrison](https://www.redhat.com/en/authors/legare-kerrison)
+
+---
 # Comparison of LLMs and SLMs
 
 

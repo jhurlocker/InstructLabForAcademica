@@ -8,11 +8,15 @@ InstructLab is an open-source project by IBM and Red Hat that enables community-
 
 ---
 
-# 
+# What you can do with InstructLab
 
 ![What InstructLab does](graphics/ILprocess.png)
 
 ---
+
+# InstructLab Workflow
+
+![InstructLab workflow](graphics/ILprocess.png)
 
 # Links to some papers, blogs, and videos, that provide an overview of InstructLab
 

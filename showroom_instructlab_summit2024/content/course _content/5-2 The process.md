@@ -10,9 +10,20 @@ We have:
 
 - we need our *'recipie files'* qna.yaml, *.md, and attribution.txt
 
+
 ---
 
 ![SDG process](graphics/processoftraining.png)
+
+---
+## Automated refinement
+
+![Automated Refinement](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
+
+The LAB method incorporates an automated refinement process to improve the quality and reliability of synthetically generated training data. Guided by a hierarchical taxonomy, it uses the model as both a generator and evaluator. The process includes instruction generation, content filtering, response generation and pair evaluation using a 3-point rating system. For knowledge-based tasks, generated content is grounded in reliable source documents, addressing potential inaccuracies in specialized domains.
+
+for more details [How InstructLab’s synthetic data generation enhances LLMs](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
+by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Legare Kerrison](https://www.redhat.com/en/authors/legare-kerrison)
 
 ---
 
@@ -49,6 +60,8 @@ The questions and answers are grounded in documents. Then we go through to gener
 ** output is a set of quality questions**
 
 ![Knowledge Generation](graphics/knowledgegeneration.png)
+
+---
 
 ---
 

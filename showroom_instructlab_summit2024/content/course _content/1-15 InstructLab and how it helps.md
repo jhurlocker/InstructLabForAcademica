@@ -1,6 +1,7 @@
 # InstructLab and how it helps
 
-![](graphics/ah-ha.png)
+
+:bulb:
 InstructLab is an open-source project by IBM and Red Hat that enables community-driven customization and tuning of large language models (LLMs) for generative AI applications, focusing on accessibility and cost-effectiveness. It helps drive community development of LLMs and for buisnesses it enables them to easily customise their in house LLM!
 
 

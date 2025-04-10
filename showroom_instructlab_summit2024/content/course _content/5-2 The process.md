@@ -18,8 +18,6 @@ We have:
 ---
 ## Automated refinement
 
-![Automated Refinement](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
-
 The LAB method incorporates an automated refinement process to improve the quality and reliability of synthetically generated training data. Guided by a hierarchical taxonomy, it uses the model as both a generator and evaluator. The process includes instruction generation, content filtering, response generation and pair evaluation using a 3-point rating system. For knowledge-based tasks, generated content is grounded in reliable source documents, addressing potential inaccuracies in specialized domains.
 
 for more details [How InstructLab’s synthetic data generation enhances LLMs](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)

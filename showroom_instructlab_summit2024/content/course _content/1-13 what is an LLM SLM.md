@@ -1,6 +1,6 @@
 # What is an LLM / SLM
 
-Let's start by understanding what a Large Language Model (LLM) is, and then we can look at Small Language Models (SMLs). 
+Let's start by understanding more about Language Model (LLMs) and Small Language Models (SMLs). 
 
 
 ![InstructLab](graphics/whatisaanllmslm.png)

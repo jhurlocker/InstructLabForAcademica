@@ -30,3 +30,13 @@ The synthetic data generation process is designed to be iterative. As new contri
 
 for more details [How InstructLab’s synthetic data generation enhances LLMs](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
 by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Legare Kerrison](https://www.redhat.com/en/authors/legare-kerrison)
+
+---
+
+## Epochs and multi-phase tuning
+
+As mentioned Instruct uses "multi-phase training that will change and repack the whole model, while the upstream InstructLab runs the “test grade” training using low-rank adaptation (LoRA) , which basically “layers” over the base model. So, how do we do the quick training?
+
+Since we’re working on RHEL AI, we will be doing an :bulb:epoch-based training. Think of each epoch as a complete pass through the entire model. The more epochs, the higher the accuracy of the trained dataset. More epochs, of course, require more time to train the model, and after a certain point you run into diminishing returns. This being the case, start with 10 epochs. Why 10? This should be enough for testing, while staying within a reasonable time frame for training."
+
+[InstructLab tutorial: Installing and fine-tuning your first AI model (part 2)](https://www.redhat.com/en/blog/instructlab-tutorial-installing-and-fine-tuning-your-first-ai-model-part-2) by [Rodrigo Freire](https://www.redhat.com/en/authors/rodrigo-freire)

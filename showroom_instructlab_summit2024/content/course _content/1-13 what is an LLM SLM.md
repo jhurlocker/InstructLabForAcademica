@@ -25,7 +25,7 @@ Quote by Rina Diane Carallar full article can be found [here](https://www.ibm.co
 
 Small Language Models althought they contain less information are often focused on a specific field or set of topics.  Due to their smaller nature, they can be much more efficent to work with.   The Granite model uses 97% less energy than the largest LLMs, and is designed to be small and for purpose, containing curated information. 
 
-In 2025 Small Language Models, have become more prevelent in the market.  They provide many benefits, such as lower costs for inferancing, requiring less compute power, being focused on specific topics. DeepSeek, notably came into the spotlight at the start of 2025 showing that a small LLM can be very impactful!
+In 2025 Small Language Models, have become more prevelent in the market.  They provide many benefits, such as lower costs for inferancing, requiring less compute power, being focused on specific topics. **DeepSeek**, notably came into the spotlight at the start of 2025 showing that a small LLM can be very impactful!
 
 LLMs have predominatly been trainined with public available information, however, they have not been trained with data from organisations, so they do not bring their benefits to organisations, with out being augmented or trained which can be costly. 
 

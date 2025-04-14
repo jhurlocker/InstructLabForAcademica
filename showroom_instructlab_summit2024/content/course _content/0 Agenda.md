@@ -11,10 +11,9 @@
 - The Issues with LLMs
 - How InstructLab helps
 - History of InstructLab
-- InstructLabs Key Innovations
-- Fine tuning / RAG / InstructLab
-- Herd of Llamas
-- Democratize generative AI 
+- InstructLabs key innovations
+- Democratizin LLM tuning
+- 9 simple stepst to train a model
 
 
 # 2. Understand InstructLab Methodology *(10 minutes)*

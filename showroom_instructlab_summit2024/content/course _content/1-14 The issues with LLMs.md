@@ -1,6 +1,6 @@
 
 
-# The issue of LLMs
+# The issues with LLMs
 
 ![The issues with LLMs](graphics/theproblemswithllms.png)
 
@@ -21,16 +21,16 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn) and [Legar
 
 | Attribute | LLM | SLM | 
 | --- | --- | --- |
-| Typical Size | Billions to trillions of paramaters| Few million to several billion paramaters|
+| Typical Size | Billions to trillions of parameters| Few million to several billion parameters|
 | Accessibility | Require multiple GPUs | Require less GPUs |
-| Latancy | Higher | Lower |
+| Latency | Higher | Lower |
 | Sustainability |Higher Carbon Footprint| Lower Carbon Footprint|
 | Typical Content | Scraped from the internet and all available sources | Typically specifically curated |
 | Uses | General and specific| General and specific |
 | Time to train | ~Weeks to months | ~Hours to weeks|
 
 # The Challenges of LLMs - maintaining and training
-From the short list of compairsons you can understand why training large language models (LLMs) is expensive due to the immense computational resources, large amounts of data, and specialized expertise required. These factors contribute to high infrastructure costs, data acquisition and preparation expenses, and the salaries of the highly skilled personnel involved. 
+From the short list of comparisons you can understand why training large language models (LLMs) is expensive due to the immense computational resources, large amounts of data, and specialized expertise required. These factors contribute to high infrastructure costs, data acquisition and preparation expenses, and the salaries of the highly skilled personnel involved. 
 
 :bulb: *To Train an open source LLM in a traditional manner the primary challenge is cost of computing resuourses and skills!*
   

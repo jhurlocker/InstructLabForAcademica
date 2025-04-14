@@ -16,4 +16,4 @@
 
 ---
 
-[InstructLab Workflow](graphics/9steps.png)
+![InstructLab Workflow](graphics/9steps.png)

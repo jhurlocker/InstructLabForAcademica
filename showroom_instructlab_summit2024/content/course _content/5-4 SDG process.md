@@ -40,7 +40,7 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Lega
     - The method utilizes particular prompt templates that dramatically expand the dataset
     - InstructLab makes sure that the new examples maintain the structure and intent of the original human-curated data 
 
-!:bulb:[SDG Taxonomy driven SDG](graphics/Taxonomy%20driven%20sdg.png)
+:bulb:[SDG Taxonomy driven SDG](graphics/Taxonomy%20driven%20sdg.png)
 
 - with a Taxonomy model it is feasible to ensure that the q&a examples are flattened out during the SDG process across all topics, so your data is not skewed.  Additionally, you want to avoid having a peak of data in an area where the Teacher model has excellent knowledge, so always consider your seed questions carefully.  The SDG process will work to normalizes the synthetic data across different taxonomy nodes. 
 - providing a good distributed set of data in the input will promote this.

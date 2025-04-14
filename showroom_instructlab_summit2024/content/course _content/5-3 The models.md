@@ -1,5 +1,6 @@
 # The Models
 
 
-:bulb:![The Models](graphics/models.png)
+:bulb:
+![The Models](graphics/modelsandinstructlab.png)
 

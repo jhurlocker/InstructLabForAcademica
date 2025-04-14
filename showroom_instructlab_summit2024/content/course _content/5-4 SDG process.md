@@ -3,17 +3,27 @@
 
 Synthetic Sata Generation (SDG) is a little bit like following a recipe!
 
-We have:
+Ingredients:
 - A Student model - who learns about the new data (typically a smaller model)
 - A Teacher Model - which is preferably a big model to create the synthetic data 
-- A Critique Model - to evaluate the newly synthetically generated data
-
-- we need our *'recipe files'* qna.yaml, *.md, and attribution.txt
+- A Critic Model - to evaluate the newly synthetically generated data
+- qna.yaml
+- *.md, or pdf files
+- attribution.txt
 
 
 ---
 
-![SDG process](graphics/processoftraining.png)
+![SDG process](graphics/theprocessofgenerationsdg.png)
+
+Based on the qna.yaml questions and knowledge file/s:
+- **The Teacher model** will generate a set of questions (this could be 10,000 + questions) by iterating through each leaf node of a taxonomy, the teacher model generates queries that adhere to specific principles.
+- **The Critic model** then evaluates the questions from step 1 and removes the week questions.  The output is a set of quality questions.
+- **The Teacher Model** then creates answers
+- The Answers are evaluated by the **Critic Model**.  The output is a set of qualifying Q&A’s, with poor Q&A pairs removed
+
+InstructLab has created your training data which you can review and then train the model with!
+
 
 ---
 ## Automated refinement
@@ -63,7 +73,6 @@ The questions and answers are grounded in documents. Then we go through to gener
 
 ---
 
----
 
  Refer to ['Large-scale synthetic data generation' section of What is InstructLab and why do developers need it by Syeda Ameena Begum](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/#large-scale-synthetic-data-generation2)
 

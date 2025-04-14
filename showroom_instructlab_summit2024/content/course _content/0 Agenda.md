@@ -32,11 +32,15 @@
 
 
 # 5. Synthetic Data Generation and Training a Model *(20 mins)*
-- Synthetic Data Generation
-- Models
-- The Process
-- advantages of Synthetic Data Generation
-- Multiphased tuning
+- Synthetic Data Generation and Advantages
+- Synthetic Data Generation and Challenges
+- SDG Process
+- The Models
+- Multiphase Tuning
+- Replay Buffers and Catastrophic Forgetting
+- Quantised models and GGUF files
+- How good is InstructLab
+
 
 
 # 6. InstructLab GUI Hands-on Lab and Break

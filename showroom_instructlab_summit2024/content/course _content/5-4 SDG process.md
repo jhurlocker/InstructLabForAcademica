@@ -1,14 +1,14 @@
 # Synthetic Data Generation Process 
 
 
-Synthetic Sata Generation (SDG) is a little bit like following a recipie!
+Synthetic Sata Generation (SDG) is a little bit like following a recipe!
 
 We have:
 - A Student model - who learns about the new data (typically a smaller model)
 - A Teacher Model - which is preferably a big model to create the synthetic data 
 - A Critique Model - to evaluate the newly synthetically generated data
 
-- we need our *'recipie files'* qna.yaml, *.md, and attribution.txt
+- we need our *'recipe files'* qna.yaml, *.md, and attribution.txt
 
 
 ---
@@ -28,11 +28,11 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Lega
 1. InstructLab leverages a Teacher Model to generate new Question and Answer pairs (based on the seed examples in the qna.yaml file supported by any documents *.md, and *.pdf)
     - The training does not use knowledge stored by the Teacher Model
     - The method utilizes particular prompt templates that dramatically expand the dataset
-    - InstructLab makes sure that the new examples maintain the structure and intent of the origninal human-curated data 
+    - InstructLab makes sure that the new examples maintain the structure and intent of the original human-curated data 
 
 !:bulb:[SDG Taxonomy driven SDG](graphics/Taxonomy%20driven%20sdg.png)
 
-- with a Taxonomy model it is feasible to ensure that you flatten out the SDG accross all topics so your data is not skewed, you want to avoid having a peak of data in an aread where the Teacher model has excellent knowledge.  This process normalizes the synthetic data across different taxonomy nodes. 
+- with a Taxonomy model it is feasible to ensure that the q&a examples are flattened out during the SDG process across all topics, so your data is not skewed.  Additionally, you want to avoid having a peak of data in an area where the Teacher model has excellent knowledge, so always consider your seed questions carefully.  The SDG process will work to normalizes the synthetic data across different taxonomy nodes. 
 - providing a good distributed set of data in the input will promote this.
 
 
@@ -40,10 +40,10 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Lega
 
 ## Stages of Skill generation
 1. Questions - the teacher will generate a set of questions
-2. The critique model must then evaluate the question in step 1 and weed out the week questions
+2. The critic model must then evaluate the question in step 1 and weed out the week questions
 ** output is a set of quality questions**
 3. The teacher then creates answers 
-4. The Answers are then envaluated by the critique model. 
+4. The Answers are then evaluated by the critic model. 
 ** output is a set of quality questions**
 
 ![Skill Generation](graphics/skillgeneration.png)
@@ -53,10 +53,10 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Lega
 ## Knowledge Generation 
 The questions and answers are grounded in documents. Then we go through to generating Q&A phase
 1. Questions - the teacher will generate a set of questions
-2. The critique must then evaluate the question in step 1 and weed out the week questions
+2. The critic must then evaluate the question in step 1 and weed out the week questions
 ** output is a set of quality questions**
 3. The teacher then creates answers 
-4. The answers are then envaluated by the cirtique model. 
+4. The answers are then envaluated by the cirtic model. 
 ** output is a set of quality questions**
 
 ![Knowledge Generation](graphics/knowledgegeneration.png)

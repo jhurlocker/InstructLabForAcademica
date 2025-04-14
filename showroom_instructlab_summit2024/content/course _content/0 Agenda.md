@@ -47,9 +47,10 @@
 
 
 # 7. Open-source, Apache 2.0, and Privacy
--  Open Source vs Proprietary
--  Apache 2.0 License for InstructLab and Granite
--  Privacy of trade secrets or corporate policies
+- Open Source and InstructLab
+- Open Source vs Proprietary
+- Privacy of trade secrets or corporate policies
+- Apache 2.0 License for InstructLab and Granite
 
 
 # 9. InstructLab open-book badge exam

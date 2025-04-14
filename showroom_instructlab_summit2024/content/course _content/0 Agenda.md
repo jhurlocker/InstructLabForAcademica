@@ -34,8 +34,8 @@
 # 5. Synthetic Data Generation and Training a Model *(20 mins)*
 - Synthetic Data Generation and Advantages
 - Synthetic Data Generation and Challenges
-- SDG Process
 - The Models
+- SDG Process
 - Multiphase Tuning
 - Replay Buffers and Catastrophic Forgetting
 - Quantised models and GGUF files

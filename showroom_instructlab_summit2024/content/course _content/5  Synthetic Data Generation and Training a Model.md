@@ -1,8 +1,8 @@
 # Synthetic Data Generation and Training a Model
 
 In this section we will look at:
-- Synthetic Data Generation - What it is and Advantages.
-- Synthetic Data Generation Challenges 
+- Synthetic Data Generation and associated Challenges 
+- Synthetic Data Generation Advantages.
 - The InstructLab SDG Process
 - The Models used
 - Multiphase Tuning

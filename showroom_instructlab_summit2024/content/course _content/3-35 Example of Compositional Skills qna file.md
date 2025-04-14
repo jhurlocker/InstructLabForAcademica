@@ -21,7 +21,7 @@ seed_examples:
 
 ---
 
-## Groundedd compositional skill: YAML example
+## Grounded compositional skill: YAML example
 
 version: 2
 task_description: |

@@ -7,11 +7,11 @@
 
 3. `domain`: Specify the category of the knowledge.
 
-4. `seed_examples`: :bulb: A collection of key/value entries (you must have atleast 5)
+4. `seed_examples`: :bulb: A collection of key/value entries (**you must have at least 5**)
 
     i. `context`: A chunk of information from the knowledge document. Each qna.yaml needs five context blocks and has a maximum word count of 500 words.
 
-    ii. `questions_and_answers`: The parameter that holds your questions and answers
+    ii. `questions_and_answers`: The parameter that holds your questions and answers (**for each context there should be 3 q&a examples**)
 
     a. question: Specify a question for the model. Each qna.yaml file needs at least three question and answer pairs per context chunk with a maximum word count of 250 words.
 

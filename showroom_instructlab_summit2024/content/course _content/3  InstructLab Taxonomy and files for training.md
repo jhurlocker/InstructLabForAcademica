@@ -17,4 +17,4 @@ In this section we will look at the components we need to have in place to add k
 - qna.yaml (overview and example)
 - attribution file
 
-## - How to contribute new knowledge and skills to InstructLab
+## - How to contribute knowledge and skills to a model with InstructLab

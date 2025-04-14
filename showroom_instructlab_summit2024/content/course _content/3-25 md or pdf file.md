@@ -9,7 +9,7 @@ If you are pulling this information from somewhere other than your brain, copy t
 
 Any code or preformatted text in the Markdown document should be enclosed in the corresponding Markdown block using backticks for the cli command or triple ‘ ‘ ‘ for multi-line formatted outputs or code blocks. 
 
-Taken from ["Best Practices for InsttructLab instruction datasets"](https://developers.redhat.com/articles/2024/11/21/best-practices-instructlab-instruction-datasets#)  by [Legare Kerrison](https://developers.redhat.com/author/legare-kerrison)
+Taken from ["Best Practices for InstructLab instruction datasets"](https://developers.redhat.com/articles/2024/11/21/best-practices-instructlab-instruction-datasets#)  by [Legare Kerrison](https://developers.redhat.com/author/legare-kerrison)
 
 
 ## Contributing skills and knowledge

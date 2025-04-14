@@ -1,6 +1,6 @@
 # Attribution File Overview
 
-:bulb: The attribution.txt file inculdes the actual public link to the knowledge source, license details of the knowledge being contributed, and the specific revision being used. 
+:bulb: The attribution.txt file includes the actual public link to the knowledge source, license details of the knowledge being contributed, and the specific revision being used. 
 
 **Attribution file structure:**
 

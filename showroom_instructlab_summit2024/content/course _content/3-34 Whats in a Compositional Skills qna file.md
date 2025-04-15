@@ -1,4 +1,4 @@
-#Skills Overview
+# Skills qna.yaml file format
 
 
 Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_structure/#__tabbed_4_1)
@@ -9,6 +9,6 @@ Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_stru
 | task_description| string | yes |  |
 | created_by| string | yes |   |
 | seed example | array | yes | :bulb:at least 5 sets|
-| context | string | only for grounded skills | max 500 tokens|
+| context | string | only for grounded skills | each context requires 3 sets of Q&A - max 500 tokens|
 | question | string | yes | max 250 tokens |
 | answer | string | yes | max 250 tokens |

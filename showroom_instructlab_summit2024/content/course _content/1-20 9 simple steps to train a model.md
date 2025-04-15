@@ -12,7 +12,7 @@
 7. run **ilab test** to run a smoke test
 8. run **ilab convert** to create a new GGUF file
 ---
-9. Serve your new model and chat with the new knowledge and skills
+Now you can serve your new model and chat with the new knowledge and skills
 
 ---
 

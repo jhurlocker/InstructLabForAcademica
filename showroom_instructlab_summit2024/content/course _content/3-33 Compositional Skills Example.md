@@ -1,4 +1,4 @@
-# Compositional Skills Example
+# Compositional Skills Examples
 
 
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Grounded skills examples:
+## Grounded skills examples:
 
 *Context is provided*
 

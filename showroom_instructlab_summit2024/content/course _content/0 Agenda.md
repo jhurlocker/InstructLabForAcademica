@@ -2,9 +2,9 @@
 
 
 # Overview of objectives
-- list of contributors
+- Course objectives
 
-# 1 . Introducing InstructLab  *(20 minutes)*
+# 1 . Introducing InstructLab  *(40 minutes)*
 - Introducing InstructLab
 - A brief history of AI
 - What is an LLM SLM?
@@ -46,14 +46,18 @@
 # 6. InstructLab GUI Hands-on Lab and Break
 
 
-# 7. Open-source, Apache 2.0, and Privacy
+# 7. Open-source, Apache 2.0, and Privacy **(10m mins)**
 - Open Source and InstructLab
 - Open Source vs Proprietary
 - Privacy of trade secrets or corporate policies
 - Apache 2.0 License for InstructLab and Granite
 
 
-# 9. InstructLab open-book badge exam
+# 8. InstructLab open-book badge exam & next steps
+- Link to the exam
+- Next steps - PodMan
+- list of contributors
+
 
 
 

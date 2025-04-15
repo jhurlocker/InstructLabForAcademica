@@ -13,7 +13,7 @@
 - History of InstructLab
 - InstructLabs key innovations
 - Democratizin LLM tuning
-- 9 simple stepst to train a model
+- 9 simple steps to train a model
 
 
 # 2. Understand InstructLab Methodology *(10 minutes)*

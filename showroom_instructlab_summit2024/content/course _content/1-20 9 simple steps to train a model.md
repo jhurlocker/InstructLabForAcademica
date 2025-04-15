@@ -1,4 +1,4 @@
-# 9 Simple steps to train an LLM wit InstructLab
+# 9 Simple steps to train an LLM with InstructLab
 
 
 1. Identify the gap in knowledge/skills

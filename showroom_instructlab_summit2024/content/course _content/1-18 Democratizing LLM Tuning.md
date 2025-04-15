@@ -21,7 +21,7 @@ To understand how LLM/SLM tuning is being democratized we need to understand how
 
 
 ## :bulb:InstructLab is:
-- **Either GUI based or driven through a terminal window - Having the GUI means anyone can contcontribute knowledge without familiarity, of YAML, GitHub, Machine Learning, or coding!**
+- **Either GUI based or driven through a terminal window - Having the GUI means anyone can contribute knowledge without familiarity, of YAML, GitHub, Machine Learning, or coding!**
 
 ---
 

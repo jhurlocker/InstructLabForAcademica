@@ -67,7 +67,7 @@ The questions and answers are grounded in documents. Then we go through to gener
 2. The critic must then evaluate the question in step 1 and weed out the week questions
 ** output is a set of quality questions**
 3. The teacher then creates answers 
-4. The answers are then envaluated by the cirtic model. 
+4. The answers are then evaluated by the critic model. 
 ** output is a set of quality questions**
 
 ![Knowledge Generation](graphics/knowledgegeneration.png)

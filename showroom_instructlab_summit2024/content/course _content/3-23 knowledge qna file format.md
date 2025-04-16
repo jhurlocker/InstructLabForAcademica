@@ -1,4 +1,4 @@
-# What's in a Knowledge qna.yaml file
+# Knowledge qna.yaml file format
 
 
 1. `version`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3.

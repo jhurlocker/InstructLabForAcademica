@@ -5,7 +5,7 @@ SDG is important as Large Language models are expected to produce responses that
 
 ---
 
-## How LLMs are trained
+## How LLMs are tuned
 
 LLMs are generally trained using Self-Supervised learning, from vast amounts of text data without explicit human-labelled answers. 
 
@@ -19,10 +19,10 @@ LLMs are generally trained using Self-Supervised learning, from vast amounts of 
 
 ---
 
-## To train with InstructLab.....
+## Training with InstructLab.....
 
 :bulb:To train with InstructLab the following is require:
-- A few Question and Answer seed pairs (as few as 5 can be used), which will be amplified to create many (100's to 100,000s) of Question and Answer pairs for tuning. 
+- A few Question-and-Answer seed pairs (as few as 5 can be used as seed data), which will be amplified to create many (100's to 100,000s) of Question-and-Answer pairs for tuning. 
 - Contextual data 
 - Attribution details
 

@@ -3,6 +3,8 @@
 In this section we will look at the components we need to have in place to add knowledge or skills to our LLM
 
 ## - Taxonomy
+- Overview
+- Placement of new Knowledge and Skills
 
 ## - Knowledge 
 - Overview 

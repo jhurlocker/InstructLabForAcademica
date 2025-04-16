@@ -4,12 +4,12 @@
 Synthetic Sata Generation (SDG) is a little bit like following a recipe!
 
 Ingredients:
-- A Student model - who learns about the new data (typically a smaller model)
-- A Teacher Model - which is preferably a big model to create the synthetic data 
-- A Critic Model - to evaluate the newly synthetically generated data
-- qna.yaml
-- *.md, or pdf files
-- attribution.txt
+- **A Student model** - that learns about the new data (typically a smaller model)
+- **A Teacher Model** - that is preferably a large model to create the synthetic data 
+- **A Critic Model** - this is the same LLM as the Teacher model and will evaluate the newly synthetically generated data
+- **qna.yaml**
+- ***.md, or pdf files**
+- **attribution.txt**
 
 
 ---

@@ -28,7 +28,7 @@ task_description:This skill provides the ability to read a markdown-formatted ta
 created_by: mairin # Use your GitHub username; only one creator supported \
 seed_examples: \
 context: \
-  | **Breed**      | **Size**     | **Barking** | **Energy** | \
+  | **Breed** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       | **Size**     | **Barking** | **Energy** | \
   |----------------|--------------|-------------|------------| \
   | Afghan Hound   | 25-27 in     | 3/5         | 4/5        | \
   | Labrador       | 22.5-24.5 in | 3/5         | 5/5        | \

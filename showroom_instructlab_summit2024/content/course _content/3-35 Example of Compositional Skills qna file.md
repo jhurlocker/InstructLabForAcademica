@@ -28,12 +28,12 @@ task_description:This skill provides the ability to read a markdown-formatted ta
 created_by: mairin # Use your GitHub username; only one creator supported \
 seed_examples: \
 context: \
-  | **Breed** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Size** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | **Barking** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Energy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
+  | **Breed** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Size** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | **Barking** &nbsp; &nbsp; &nbsp; &nbsp;  | **Energy** &nbsp; &nbsp; &nbsp; &nbsp;| \
   |----------------|--------------|-------------|------------| \
-  | Afghan Hound | 25-27 in  &nbsp; &nbsp; &nbsp; &nbsp;  | 3/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       | 4/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
-  | Labrador &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 22.5-24.5 in &nbsp; | 3/5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     | 5/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
-  | Cocker Spaniel  | 14.5-15.5 in &nbsp; | 3/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | \
-  | Poodle (Toy) &nbsp; &nbsp;  | <= 10 in&nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
+  | Afghan Hound | 25-27 in  &nbsp; &nbsp; &nbsp; &nbsp;  | 3/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
+  | Labrador &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 22.5-24.5 in | 3/5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  | 5/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
+  | Cocker Spaniel  | 14.5-15.5 in &nbsp; &nbsp; | 3/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | \
+  | Poodle (Toy) &nbsp; &nbsp;  | <= 10 in&nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
     question: \
       Which breed has the most energy?\
     answer: \

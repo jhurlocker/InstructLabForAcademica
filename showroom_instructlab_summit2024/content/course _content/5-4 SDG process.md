@@ -1,18 +1,8 @@
 # Synthetic Data Generation Process 
 
 
-Synthetic Sata Generation (SDG) is a little bit like following a recipe!
+Synthetic Sata Generation (SDG) 
 
-Ingredients:
-- **A Student model** - that learns about the new data (typically a smaller model)
-- **A Teacher Model** - that is preferably a large model to create the synthetic data 
-- **A Critic Model** - this is the same LLM as the Teacher model and will evaluate the newly synthetically generated data
-- **qna.yaml**
-- ***.md, or pdf files**
-- **attribution.txt**
-
-
----
 
 ![SDG process](graphics/theprocessofgenerationsdg.png)
 
@@ -34,6 +24,10 @@ for more details [How InstructLab’s synthetic data generation enhances LLMs](h
 by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn), and [Legare Kerrison](https://www.redhat.com/en/authors/legare-kerrison)
 
 ---
+
+# Back-up Materials
+
+The following is taken from the video [Open Source Community Instruction-tuning of Language Models](https://learn.ibm.com/mod/page/view.php?id=322162&forceview=1), with [BJ Hargrave](https://www.linkedin.com/in/bjhargrave/)
 
 1. InstructLab leverages a Teacher Model to generate new Question and Answer pairs (based on the seed examples in the qna.yaml file supported by any documents *.md, and *.pdf)
     - The training does not use knowledge stored by the Teacher Model
@@ -71,6 +65,8 @@ The questions and answers are grounded in documents. Then we go through to gener
 ** output is a set of quality questions**
 
 ![Knowledge Generation](graphics/knowledgegeneration.png)
+
+
 
 ---
 

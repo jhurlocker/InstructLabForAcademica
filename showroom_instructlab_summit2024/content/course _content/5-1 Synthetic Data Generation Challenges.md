@@ -1,7 +1,7 @@
 
 ## Synthetic Data Generation
 
-SDG is important as Large Language models are expected to produce responses that align with human values and that are correct, this is one of the ways that the LLM will understand how to craft examples by learning from experience.
+SDG is important as Large Language Models are expected to produce responses that align with human values and that are correct, this is one of the ways that the LLM will understand how to craft examples by learning from experience.
 
 ---
 
@@ -22,7 +22,7 @@ LLMs are generally trained using Self-Supervised learning, from vast amounts of 
 ## Training with InstructLab.....
 
 :bulb:To train with InstructLab the following is require:
-- A few Question-and-Answer seed pairs (as few as 5 can be used as seed data), which will be amplified to create many (100's to 100,000s) of Question-and-Answer pairs for tuning. 
+- A few Question-and-Answer seed pairs (there is a minimun of 5 contexts, each with 3 question and answer pairs required), which will be amplified to create many (100's to 100,000s) of Question-and-Answer pairs for tuning. 
 - Contextual data 
 - Attribution details
 

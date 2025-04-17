@@ -1,4 +1,4 @@
-#Example of a Compositional Skills qna file
+# Example of a Compositional Skills qna file
 
 Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_structure/#__tabbed_4_1)
 
@@ -8,27 +8,26 @@ version: 2
 task_description: 'Teach the model how to rhyme.'
 created_by: juliadenham
 seed_examples:
-  - question: What are 5 words that rhyme with horn?
-    answer: warn, torn, born, thorn, and corn.
-  - question: What are 5 words that rhyme with cat?
-    answer: bat, gnat, rat, vat, and mat.
-  - question: What are 5 words that rhyme with poor?
-    answer: door, shore, core, bore, and tore.
-  - question: What are 5 words that rhyme with bank?
-    answer: tank, rank, prank, sank, and drank.
-  - question: What are 5 words that rhyme with bake?
-    answer: wake, lake, steak, make, and quake.
+  question: What are 5 words that rhyme with horn?
+  answer: warn, torn, born, thorn, and corn.
+  question: What are 5 words that rhyme with cat?
+  answer: bat, gnat, rat, vat, and mat.
+  question: What are 5 words that rhyme with poor?
+  answer: door, shore, core, bore, and tore.
+  question: What are 5 words that rhyme with bank?
+  answer: tank, rank, prank, sank, and drank.
+  question: What are 5 words that rhyme with bake?
+  answer: wake, lake, steak, make, and quake.
 
 ---
 
 ## Grounded compositional skill: YAML example
 
 version: 2
-task_description: |
-    This skill provides the ability to read a markdown-formatted table.
+task_description:This skill provides the ability to read a markdown-formatted table.
 created_by: mairin # Use your GitHub username; only one creator supported
 seed_examples:
-  - context: |
+context: |
       | **Breed**      | **Size**     | **Barking** | **Energy** |
       |----------------|--------------|-------------|------------|
       | Afghan Hound   | 25-27 in     | 3/5         | 4/5        |
@@ -39,7 +38,7 @@ seed_examples:
       Which breed has the most energy?
     answer: |
       The breed with the most energy is the Labrador.
-  - context: |
+  context: |
       | **Name** | **Date** | **Color** | **Letter** | **Number** |
       |----------|----------|-----------|------------|------------|
       | George   | Mar 5    | Green     | A          | 1          |
@@ -51,7 +50,7 @@ seed_examples:
       What is Gráinne's letter and what is her color?
     answer: |
       Gráinne's letter is B and her color is red.
-  - context: |
+  context: |
       | Banana | Apple      | Blueberry | Strawberry |
       |--------|------------|-----------|------------|
       | Yellow | Red, Green | Blue      | Red        |

@@ -30,10 +30,10 @@ seed_examples: \
 context: \
   | **Breed** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Size** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | **Barking** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Energy** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
   |----------------|--------------|-------------|------------| \
-  | Afghan Hound &nbsp; &nbsp; &nbsp; &nbsp;    | 25-27 in     | 3/5         | 4/5        | \
-  | Labrador &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       | 22.5-24.5 in | 3/5         | 5/5        | \
-  | Cocker Spaniel &nbsp; &nbsp;  | 14.5-15.5 in | 3/5         | 4/5        | \
-  | Poodle (Toy) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | <= 10 in     | 4/5         | 4/5        | \
+  | Afghan Hound &nbsp; | 25-27 in  &nbsp; &nbsp; &nbsp; | 3/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       | 4/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      | \
+  | Labrador &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 22.5-24.5 in &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 3/5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     | 5/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
+  | Cocker Spaniel  | 14.5-15.5 in &nbsp; &nbsp; &nbsp; &nbsp;  | 3/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | \
+  | Poodle (Toy) &nbsp; &nbsp;  | <= 10 in&nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
     question: \
       Which breed has the most energy?\
     answer: \

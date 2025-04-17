@@ -4,18 +4,14 @@ Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_stru
 
 ## Ungrounded compositional skill: YAML example
 
-version: 2
-
-task_description: 'Teach the model how to rhyme.'
-
-created_by: juliadenham
-
+version: 2 \
+task_description: 'Teach the model how to rhyme.' \
+created_by: juliadenham <br/>
 seed_examples:
-
   question: What are 5 words that rhyme with horn?
 
   answer: warn, torn, born, thorn, and corn.
-  
+
   question: What are 5 words that rhyme with cat?
   answer: bat, gnat, rat, vat, and mat.
   question: What are 5 words that rhyme with poor?

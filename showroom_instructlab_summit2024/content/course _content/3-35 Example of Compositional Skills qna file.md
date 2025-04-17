@@ -40,9 +40,9 @@ context: \
  &nbsp; &nbsp;      The breed with the most energy is the Labrador. \
   context:  \
       | **Name** &nbsp; &nbsp;&nbsp; | **Date** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Color** &nbsp;&nbsp;&nbsp;&nbsp;| **Letter**&nbsp;&nbsp;&nbsp;&nbsp; | **Number**&nbsp;&nbsp;&nbsp; | \
-      |----------|----------|---------|----------|-----------| \
-      | George&nbsp; &nbsp;| Mar 5 &nbsp;&nbsp;&nbsp; &nbsp;| Green &nbsp;&nbsp; &nbsp;&nbsp;| A &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
-      | Gráinne&nbsp;&nbsp;| Dec 31&nbsp;&nbsp;&nbsp;&nbsp;| Red&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| B &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
+      |----------|---------|----------|----------|-----------| \
+      | George&nbsp; &nbsp;| Mar 5 &nbsp;&nbsp;&nbsp; &nbsp;| Green &nbsp;&nbsp; &nbsp;| A &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
+      | Gráinne&nbsp;&nbsp;| Dec 31&nbsp;&nbsp;&nbsp;&nbsp;| Red&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| B &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
       | Abigail&nbsp;&nbsp;&nbsp;| Jan 17 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Yellow &nbsp;&nbsp;&nbsp;&nbsp;| C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
       | Bhavna&nbsp;&nbsp;| Apr 29&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Purple&nbsp;&nbsp;&nbsp;&nbsp;| D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
       | Rémy &nbsp;&nbsp;&nbsp;&nbsp;| Sep 9 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Blue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \

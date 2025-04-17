@@ -28,24 +28,24 @@ task_description:This skill provides the ability to read a markdown-formatted ta
 created_by: mairin # Use your GitHub username; only one creator supported \
 seed_examples: \
 context: \
-  | **Breed** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Size** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;      | **Barking** &nbsp; &nbsp;  | **Energy** &nbsp; &nbsp; | \
-  |---------------|---------------|-----------|------------| \
-  | Afghan Hound | 25-27 in  &nbsp; &nbsp; &nbsp; &nbsp;  | 3/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 4/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
-  | Labrador &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 22.5-24.5 in | 3/5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  | 5/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | \
-  | Cocker Spaniel  | 14.5-15.5 in &nbsp;  | 3/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | \
-  | Poodle (Toy) &nbsp; &nbsp;  | <= 10 in&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
+ &nbsp; &nbsp;  | **Breed** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Size** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;      | **Barking** &nbsp; &nbsp;  | **Energy** &nbsp; &nbsp; &nbsp;  | \
+ &nbsp; &nbsp;  |---------------|--------------|------------|------------| \
+  &nbsp; &nbsp; | Afghan Hound | 25-27 in  &nbsp; &nbsp; &nbsp; &nbsp;  | 3/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 4/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
+ &nbsp; &nbsp;  | Labrador &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 22.5-24.5 in | 3/5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  | 5/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | \
+  &nbsp; &nbsp; | Cocker Spaniel  | 14.5-15.5 in &nbsp;  | 3/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  | \
+ &nbsp; &nbsp;  | Poodle (Toy) &nbsp; &nbsp;  | <= 10 in&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
     question: \
-      Which breed has the most energy?\
+  &nbsp; &nbsp;     Which breed has the most energy?\
     answer: \
-      The breed with the most energy is the Labrador. \
+ &nbsp; &nbsp;      The breed with the most energy is the Labrador. \
   context:  \
-      | **Name** | **Date** | **Color** | **Letter** | **Number** |
-      |----------|----------|-----------|------------|------------|
-      | George   | Mar 5    | Green     | A          | 1          |
-      | Gráinne  | Dec 31   | Red       | B          | 2          |
-      | Abigail  | Jan 17   | Yellow    | C          | 3          |
-      | Bhavna   | Apr 29   | Purple    | D          | 4          |
-      | Rémy     | Sep 9    | Blue      | E          | 5          |
+      | **Name** &nbsp;&nbsp; | **Date** &nbsp;&nbsp;| **Color** &nbsp;&nbsp;| **Letter**&nbsp;&nbsp; | **Number**&nbsp;&nbsp; | \
+      |----------|----------|-----------|------------|------------| \
+      | George&nbsp;   | Mar 5 &nbsp;&nbsp;   | Green &nbsp;&nbsp;    | A  &nbsp;&nbsp;&nbsp;&nbsp;| 1 &nbsp;&nbsp;&nbsp;&nbsp;| \
+      | Gráinne&nbsp;| Dec 31&nbsp;| Red&nbsp;&nbsp;&nbsp;| B &nbsp;&nbsp; | 2 &nbsp;&nbsp;| \
+      | Abigail&nbsp;| Jan 17 &nbsp;| Yellow &nbsp;| C &nbsp;&nbsp;| 3 &nbsp;&nbsp;| \
+      | Bhavna&nbsp;| Apr 29&nbsp;| Purple&nbsp;| D &nbsp;&nbsp;| 4 &nbsp;&nbsp;| \
+      | Rémy &nbsp;&nbsp;&nbsp;| Sep 9 &nbsp;&nbsp;| Blue &nbsp;&nbsp;| E &nbsp;&nbsp;| 5 &nbsp;&nbsp;| \
     question: \
       What is Gráinne's letter and what is her color? \
     answer: \

@@ -1,5 +1,7 @@
 # Skills qna.yaml file format
 
+The chart illustrates the type of data that is required in the qna.yaml file. 
+
 
 Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_structure/#__tabbed_4_1)
 

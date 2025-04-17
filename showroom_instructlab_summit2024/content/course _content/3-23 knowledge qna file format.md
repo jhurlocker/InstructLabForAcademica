@@ -23,11 +23,11 @@
 
     i. `repo`: The URL to your repository that holds your knowledge markdown files.
 
-    ii. `commit`: The SHA of the commit in your repository with your knowledge markdown files.
+    ii. `commit`: The SHA (hash) of the commit in your repository with your knowledge markdown files.
 
     iii. `patterns`: A list of glob patterns specifying the markdown files in your repository. Any glob pattern that starts with *, such as *.md, must be quoted due to YAML rules. For example, *.md.
 
     # :bulb: Other requirements
 
-    1. There should be a minimum of 5 `questions_and_answers` in each qna.yaml file
-    2. If you have a context - the minimum number of questions and answer pairs withine each context required to contribute to knowledge is 3 (you would require 5 context based examples.)
+   
+There is a minimum requirement to have 5 'context' - which will have an associated minimum of 3 'questions and answer' pairs.  The 'question and answer' pairs must relate to the context. 

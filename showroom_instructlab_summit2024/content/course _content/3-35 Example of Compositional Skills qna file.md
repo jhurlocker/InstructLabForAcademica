@@ -32,30 +32,30 @@ context: \
  &nbsp; &nbsp;  |---------------|--------------|------------|------------| \
   &nbsp; &nbsp; | Afghan Hound | 25-27 in  &nbsp; &nbsp; &nbsp; &nbsp;  | 3/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| 4/5   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
  &nbsp; &nbsp;  | Labrador &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | 22.5-24.5 in | 3/5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  | 5/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | \
-  &nbsp; &nbsp; | Cocker Spaniel  | 14.5-15.5 in &nbsp;  | 3/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  | \
+  &nbsp; &nbsp; | Cocker Spaniel  | 14.5-15.5 in &nbsp;  | 3/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | \
  &nbsp; &nbsp;  | Poodle (Toy) &nbsp; &nbsp;  | <= 10 in&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 4/5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | \
     question: \
   &nbsp; &nbsp;     Which breed has the most energy?\
     answer: \
  &nbsp; &nbsp;      The breed with the most energy is the Labrador. \
   context:  \
-      | **Name** &nbsp;&nbsp; | **Date** &nbsp;&nbsp;| **Color** &nbsp;&nbsp;| **Letter**&nbsp;&nbsp; | **Number**&nbsp;&nbsp; | \
+      | **Name** &nbsp; &nbsp;&nbsp; | **Date** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Color** &nbsp;&nbsp;&nbsp;| **Letter**&nbsp;&nbsp;&nbsp; | **Number**&nbsp;&nbsp; | \
       |----------|----------|-----------|------------|------------| \
-      | George&nbsp;   | Mar 5 &nbsp;&nbsp;   | Green &nbsp;&nbsp;    | A  &nbsp;&nbsp;&nbsp;&nbsp;| 1 &nbsp;&nbsp;&nbsp;&nbsp;| \
-      | Gráinne&nbsp;| Dec 31&nbsp;| Red&nbsp;&nbsp;&nbsp;| B &nbsp;&nbsp; | 2 &nbsp;&nbsp;| \
-      | Abigail&nbsp;| Jan 17 &nbsp;| Yellow &nbsp;| C &nbsp;&nbsp;| 3 &nbsp;&nbsp;| \
-      | Bhavna&nbsp;| Apr 29&nbsp;| Purple&nbsp;| D &nbsp;&nbsp;| 4 &nbsp;&nbsp;| \
-      | Rémy &nbsp;&nbsp;&nbsp;| Sep 9 &nbsp;&nbsp;| Blue &nbsp;&nbsp;| E &nbsp;&nbsp;| 5 &nbsp;&nbsp;| \
+      | George&nbsp; &nbsp;&nbsp;  | Mar 5 &nbsp; | Green &nbsp;&nbsp;    | A  &nbsp;&nbsp;&nbsp;&nbsp;| 1 &nbsp;&nbsp;&nbsp;&nbsp;| \
+      | Gráinne&nbsp;&nbsp;| Dec 31&nbsp;| Red&nbsp;&nbsp;&nbsp;| B &nbsp;&nbsp; | 2 &nbsp;&nbsp;| \
+      | Abigail&nbsp;&nbsp;&nbsp;| Jan 17 &nbsp;| Yellow &nbsp;| C &nbsp;&nbsp;| 3 &nbsp;&nbsp;| \
+      | Bhavna&nbsp;&nbsp;| Apr 29&nbsp;| Purple&nbsp;| D &nbsp;&nbsp;| 4 &nbsp;&nbsp;| \
+      | Rémy &nbsp;&nbsp;&nbsp;&nbsp;| Sep 9 &nbsp;&nbsp;| Blue &nbsp;&nbsp;| E &nbsp;&nbsp;| 5 &nbsp;&nbsp;| \
     question: \
       What is Gráinne's letter and what is her color? \
     answer: \
       Gráinne's letter is B and her color is red. \
   context:  \
-      | Banana | Apple      | Blueberry | Strawberry |
-      |--------|------------|-----------|------------|
-      | Yellow | Red, Green | Blue      | Red        |
-      | Large  | Medium     | Small     | Small      |
-      | Peel   | Peel       | No peel   | No peel    |
+      | Banana&nbsp; | Apple &nbsp;&nbsp;| Blueberry&nbsp; | Strawberry | \
+      |--------|------------|-----------|------------| \
+      | Yellow | Red, Green | Blue      | Red        | \
+      | Large &nbsp; | Medium     | Small     | Small      | \
+      | Peel &nbsp;&nbsp;  | Peel       | No peel   | No peel    | \
     question:  \
       Which fruit is blue, small, and has no peel? \
     answer:  \

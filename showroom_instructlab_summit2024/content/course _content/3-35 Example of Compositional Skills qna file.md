@@ -8,16 +8,16 @@ version: 2 \
 task_description: 'Teach the model how to rhyme.' \
 created_by: juliadenham \
 seed_examples: \
-  question: What are 5 words that rhyme with horn? \
-  answer: warn, torn, born, thorn, and corn. \
-  question: What are 5 words that rhyme with cat? \
-  answer: bat, gnat, rat, vat, and mat. \
-  question: What are 5 words that rhyme with poor? \
-  answer: door, shore, core, bore, and tore. \
-  question: What are 5 words that rhyme with bank? \
-  answer: tank, rank, prank, sank, and drank. \
-  question: What are 5 words that rhyme with bake? \
-  answer: wake, lake, steak, make, and quake. \
+ &nbsp;&nbsp; question: What are 5 words that rhyme with horn? \
+ &nbsp;&nbsp; answer: warn, torn, born, thorn, and corn. \
+ &nbsp;&nbsp; question: What are 5 words that rhyme with cat? \
+ &nbsp;&nbsp; answer: bat, gnat, rat, vat, and mat. \
+ &nbsp;&nbsp; question: What are 5 words that rhyme with poor? \
+ &nbsp;&nbsp; answer: door, shore, core, bore, and tore. \
+ &nbsp;&nbsp; question: What are 5 words that rhyme with bank? \
+ &nbsp;&nbsp; answer: tank, rank, prank, sank, and drank. \
+ &nbsp;&nbsp; question: What are 5 words that rhyme with bake? \
+ &nbsp;&nbsp; answer: wake, lake, steak, make, and quake. \
 
 ---
 
@@ -40,12 +40,12 @@ context: \
  &nbsp; &nbsp;      The breed with the most energy is the Labrador. \
   context:  \
       | **Name** &nbsp; &nbsp;&nbsp; | **Date** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Color** &nbsp;&nbsp;&nbsp;&nbsp;| **Letter**&nbsp;&nbsp;&nbsp;&nbsp; | **Number**&nbsp;&nbsp;&nbsp; | \
-      |----------|----------|-----------|------------|------------| \
-      | George&nbsp; &nbsp;| Mar 5 &nbsp;&nbsp;&nbsp; | Green &nbsp;&nbsp; &nbsp;   | A  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
-      | Gráinne&nbsp;&nbsp;| Dec 31&nbsp;&nbsp;&nbsp;| Red&nbsp;&nbsp;&nbsp;&nbsp;| B &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;| 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
-      | Abigail&nbsp;&nbsp;&nbsp;| Jan 17 &nbsp;&nbsp;&nbsp;| Yellow &nbsp;&nbsp;| C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
-      | Bhavna&nbsp;&nbsp;| Apr 29&nbsp;&nbsp;&nbsp;| Purple&nbsp;| D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
-      | Rémy &nbsp;&nbsp;&nbsp;&nbsp;| Sep 9 &nbsp;&nbsp;&nbsp;&nbsp;| Blue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| E &nbsp;&nbsp;| 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
+      |----------|----------|-----------|-----------|------------| \
+      | George&nbsp; &nbsp;| Mar 5 &nbsp;&nbsp;&nbsp; &nbsp;| Green &nbsp;&nbsp; &nbsp;   | A  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
+      | Gráinne&nbsp;&nbsp;| Dec 31&nbsp;&nbsp;&nbsp;&nbsp;| Red&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| B &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
+      | Abigail&nbsp;&nbsp;&nbsp;| Jan 17 &nbsp;&nbsp;&nbsp;&nbsp;| Yellow &nbsp;&nbsp;&nbsp;&nbsp;| C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
+      | Bhavna&nbsp;&nbsp;| Apr 29&nbsp;&nbsp;&nbsp;&nbsp;| Purple&nbsp;&nbsp;&nbsp;&nbsp;| D &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 
+      | Rémy &nbsp;&nbsp;&nbsp;&nbsp;| Sep 9 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Blue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| E &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| \
     question: \
       What is Gráinne's letter and what is her color? \
     answer: \
@@ -59,4 +59,4 @@ context: \
     question:  \
    &nbsp;&nbsp;   Which fruit is blue, small, and has no peel? \
     answer:  \
-    &nbsp;&nbsp;  The blueberry is blue, small, and has no peel. \
+    &nbsp;&nbsp;  The blueberry is blue, small, and has no peel. 

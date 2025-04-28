@@ -1,63 +1,48 @@
-# Agenda
-
-
-# Overview of objectives
-- Course objectives
-
-# 1 . Introducing InstructLab  *(40 minutes)*
-- Introducing InstructLab
-- A brief history of AI
-- What is an LLM SLM?
-- The Issues with LLMs
-- How InstructLab helps
-- History of InstructLab
-- InstructLabs key innovations
-- Democratizin LLM tuning
-- 9 simple steps to train a model
-
-
-# 2. Understand InstructLab Methodology *(10 minutes)*
-- LAB paper overview
-- LAB paper - link to short video
-
-
-# 3. InstructLab - Taxonomy and files for training *(10 minutes)*
-- Taxonomy
-- Knowledge
-- Skills
-- How to contribute knowledge and skills to a model with InstructLab
-
-
-# 4. Hands-on-Lab 1 & Break  *(40 minutes)*
-
-
-# 5. Synthetic Data Generation and Training a Model *(20 mins)*
-- Synthetic Data Generation and Advantages
-- Synthetic Data Generation and Challenges
-- The Models
-- SDG Process
-- Multiphase Tuning
-- Replay Buffers and Catastrophic Forgetting
-- Quantised models and GGUF files
-- How good is InstructLab
-
-
-
-# 6. InstructLab GUI Hands-on Lab and Break
-
-
-# 7. Open-source, Apache 2.0, and Privacy **(10m mins)**
-- Open Source and InstructLab
+# - Agenda for workshop
+# - Overview of objectives
+# - Instroducing InstructLab 
+- Understand LLM/SLMs and the current challenges
+- LLM vs SLM
 - Open Source vs Proprietary
-- Privacy of trade secrets or corporate policies
 - Apache 2.0 License for InstructLab and Granite
+- reduce bias through diversity
+- Fine tuning / RAG / InstructLab
+- Catastrophic Forgetting and other issues
+- Privacy of trade secrets or corporate policies
+- Cost implications
+- Herd of Llamas
 
 
-# 8. InstructLab open-book badge exam & next steps
-- Link to the exam
-- Next steps - PodMan
-- list of contributors
+# - Instruct Innovation and the LAB Paper
+- A brief history of InstructLab
+- LAB paper
+- Democratize generative AI 
+- Community driven development
+- Minimum technical experience needed
+- Ease of use for SMEs
 
+# - InstructLab – Taxonomy, knowledge, Skills, and other files for training
+- Taxonomy
+- Skills
+- qna.yaml
+- Knowledge
+- qna.yaml
+- attribution.txt
+- knowledge document (md or pdf)
 
+# - Hands on GUI Lab and Break
 
+# - Synthetic Data Generation and Training a Model
+- Synthetic Data Generation
+- Student Model
+- Teacher Model
+- Critic Model
+- Advantages of Synthetic Data Generation
+- Multiphased tuning
+- yaml validation
 
+# - Usage of InstructLab and Open-Source
+ 
+# - Hands-on Lab CLI Lab and Break
+
+# - InstructLab open-book badge exam

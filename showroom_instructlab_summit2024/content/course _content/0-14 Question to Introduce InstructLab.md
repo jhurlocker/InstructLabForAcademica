@@ -1,6 +1,6 @@
 # Question!
     
-- ### Have you experienced a Large Language Model (LLM) make some thing up - where the LLM got it wrong and perhaps just hallucinated?
+- ### Have you experienced a Large Language Model (LLM) make some thing up - where the LLM got it wrong and perhaps hallucinated?
 
 
 

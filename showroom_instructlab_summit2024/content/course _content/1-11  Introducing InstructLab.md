@@ -1,8 +1,18 @@
 # Introducing InstructLab
 
+![the Challenge](graphics/letscreate.png)
+
+---
+
+We will see today that traditional methods for training an LLM and labourious, time consuming, and complicated.  So the research team at IBM's Cambridge AI Model Research Lab - devised a new Methodology, called the Large-Scale Aulignment for ChatBots or LAB Method (which we will look at later) to enable anyone to contribute knowledge and skills to an LLM!
+
 ![InstructLab](graphics/communitydrivenproject.png)
 
 ---
+
+InstructLab had democratising the alignment tuning of LLM's enabling anyone to be able to contribute knowledge and skills. InstructLab has also been developed by RedHat and is today available with an Apache 2.0 licence as open source software on GitHub, where you can not only contribute to the development of InstructLab, but more importantly anyone can use it to contribut to public or private LLM's.
+
+## Why is this important
 
 :bulb:Large Language Models (LLMs) are the new frontier in data insights, but they are only as knowledgeable as the information they contain. We live in a data-driven world, where new information is generated every second. For organizations and enterprises, data is stored internally, meaning that to fully leverage an LLM, these organizations need to integrate their proprietary data into their private LLM. However, customizing or tailoring LLMs has been a significant and costly challenge. :bulb:This is where InstructLab comes in to overcome that challenge enabling organisations and individuals to **customize LLMs** for business needs, at a much **lower cost**.
 

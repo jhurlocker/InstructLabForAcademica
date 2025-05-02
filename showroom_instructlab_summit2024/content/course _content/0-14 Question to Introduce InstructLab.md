@@ -1,11 +1,12 @@
 # Question!
     
-- ### Who has experienced a Large Language Model (LLM) make some thing up - where the LLM got it wrong and perhaps just hallucinated?
+- ### Have you experienced a Large Language Model (LLM) make some thing up - where the LLM got it wrong and perhaps just hallucinated?
 
 
 
-- ### Who has not been albe to find infomration that they were looking for in an LLM - It had a gap in its knowledge.
+- ### Have you been unalbe to find infomration that you were looking for in an LLM - did it had a gap in its knowledge?
 
+---
 
 
 

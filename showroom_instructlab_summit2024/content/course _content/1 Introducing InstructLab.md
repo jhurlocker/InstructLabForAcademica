@@ -1,5 +1,5 @@
 
-# 1 . Introducing InstructLab  *(40 minutes)*
+# 1 . Introducing InstructLab  *(60 minutes)*
 - Introducing InstructLab
 - A brief history of AI
 - What is an LLM SLM?

@@ -4,7 +4,9 @@
 
 ---
 
-We will see today that traditional methods for training an LLM and labourious, time consuming, and complicated.  So the research team at IBM's Cambridge AI Model Research Lab - devised a new Methodology, called the Large-Scale Aulignment for ChatBots or LAB Method (which we will look at later) to enable anyone to contribute knowledge and skills to an LLM!
+Traditional methods for training an LLMs are labourious, time consuming, and complicated.  So the research team at IBM's Cambridge AI Model Research Lab - devised a new Methodology, called the Large-Scale Aulignment for ChatBots or LAB Method (which we will look at later) to enable anyone to contribute knowledge and skills to an LLM!
+
+---
 
 ![InstructLab](graphics/communitydrivenproject.png)
 

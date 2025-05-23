@@ -8,7 +8,10 @@ In 2025 this is what people typically use LLM's for - there are many articles on
 4. Enhanced learning
 5. Generating code (for pros)
 
+---
+
 ![LLM trends](graphics/howdowweusellms.png)
+---
 
 # How can businesses benefit from LLM's or SLM's?
 

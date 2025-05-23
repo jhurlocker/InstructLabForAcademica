@@ -4,7 +4,7 @@
 
 
 
-- ### Have you been unalbe to find infomration that you were looking for in an LLM - did it had a gap in its knowledge?
+- ### Have you been unalbe to find information that you were looking for in an LLM - did it had a gap in its knowledge?
 
 ---
 

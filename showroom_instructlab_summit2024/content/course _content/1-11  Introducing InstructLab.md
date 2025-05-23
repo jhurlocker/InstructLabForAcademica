@@ -4,7 +4,12 @@
 
 ---
 
-Traditional methods for training an LLMs are labourious, time consuming, and complicated.  So the research team at [IBM's Cambridge AI Model Research Lab](https://research.ibm.com/labs/cambridge) - devised a new Methodology, called the Large-Scale Aulignment for ChatBots or LAB Method (which we will look at later) to enable anyone to contribute knowledge and skills to an LLM!
+Traditional methods for training an LLMs are labourious, time consuming, and complicated.  So the research team at [IBM's Cambridge AI Model Research Lab](https://research.ibm.com/labs/cambridge) - devised a new Methodology, to simplify the tuning of LLMs and SLMs so democratizing the tasks of:
+
+- adding new knowledge and skills
+- updating existing knowledge and skills
+
+ The new methodology is called the [Large-Scale Aulignment for ChatBots or LAB Method](https://arxiv.org/pdf/2403.01081) that enable anyone to contribute knowledge and skills to an LLM!
 
 ---
 
@@ -20,7 +25,7 @@ InstructLab had democratising the alignment tuning of LLM's enabling anyone to b
 
 InstructLab enables a prescriptive approach to LLM development, allowing individuals to define what a model knows and what it can do using a taxonomy.
 
-Prior to InstructLab, new knowledge could only be added to a model via Fine Tuning, which is costly and resource intensive. To address this, InstructLab **democratizes** model tuning and provides a **multi-phased, large-scale alignment tuning process** that enables you to **integrate knowledge that you Synthetically Generate**.
+Prior to InstructLab, new knowledge could only be added to a model via Fine Tuning, which is costly and resource intensive. To address this, InstructLab **democratizes** model tuning and provides a **multi-phased, large-scale alignment tuning process** that enables you to **integrate knowledge that you Synthetically Generate**.  For more details on traditional training methods have a look at article ["What is model training?"]( https://www.ibm.com/think/topics/model-training) by [Dave Bergmann](https://www.ibm.com/think/author/dave-bergmann) and [Cloe Stryker](https://www.ibm.com/think/author/cole-stryker).
 
 InstructLab is an **open-source project**, which means not only can anyone contribute to its development, but you can also play a part in the ongoing evolution of LLMs in a controlled and governed manner.
 

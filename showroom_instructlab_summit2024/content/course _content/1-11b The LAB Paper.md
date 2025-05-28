@@ -17,9 +17,9 @@ The Methodology behind InstructLab
 
 ## High-level overview of the LAB paper (video)
 
-![LAB Paper](graphics/labpaper2.png)
+
 link to the YouTube video:
-[Link to the video - The Technology behind InstrucLab, a low-cost way to customize LLM's](https://youtu.be/_kbq-npuMC0?si=F6FUVsk2GGLrgmrn)
+[![LAB Paper](graphics/labpaper2.png)](https://youtu.be/_kbq-npuMC0?si=F6FUVsk2GGLrgmrn)
 
 - ## Taxonomy based approach (as opposed to a blender approach)
 - ## Synthetic Data Generation - with a Teacher Model
@@ -30,13 +30,10 @@ link to the YouTube video:
 
 IBM and Red Hat\'s new open source project is designed to lower the cost of customizing Language Models by allowing end users, subject matter experts, and enterprises to collaboratively add new knowledge and skills to AI language models which democratize AI building for everyone.
 
-\"Instead of having a large company decide what your model knows, and what it can do, InstructLab lets you dictate through its taxonomy what knowledge and skills your model should have\" Akash Srivastava, the IBM researcher who led the team that developed LAB Method and is now principal AI product advisor at Red Hat.
-
-Watch the following video by Máirín Duffy to understand more the concepts.
-
-
-
-[Read this blog](https://research.ibm.com/blog/LLM-generated-data)
-A faster, systematic way to train large language models for enterprise by Kim Martineau, to understand more about the LAB methodology. 
+## Additional Reading
 
 [Link to the Lab Paper](https://arxiv.org/abs/2403.01081)
+
+[systematic way to train large language models for enterprise](https://research.ibm.com/blog/LLM-generated-data)
+by [Kim Martineau](https://research.ibm.com/people/kim-martineau) 
+

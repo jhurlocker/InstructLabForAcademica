@@ -1,0 +1,42 @@
+# The LAB Paper
+
+## :bulb:Large-scale Alignment for chatBots (LAB) Concepts
+
+A faster, systematic way to train large language models for the enterprise!
+
+**Please note:** We will cover the topic's on this page during this course as we delve in to how to tune an LLM with InstructLab
+
+![LAB Paper](graphics/labpaper.png)
+
+---
+
+The Methodology behind InstructLab
+:bulb:**A method to enable community-driven development and model evolution**
+
+**Large-scale Alignment for chatBots, or LAB**. Is a method for systematically generating synthetic data for the tasks you want your chatbot to accomplish, and for assimilating new knowledge and capabilities into the foundation model, without overwriting what the model has already learned. With LAB, Language Models can be drastically improved in far less time and at a lower cost than is typically spent training Language Models.
+
+## High-level overview of the LAB paper (video)
+
+![LAB Paper](graphics/labpaper2.png)
+link to the YouTube video:
+[Link to the video - The Technology behind InstrucLab, a low-cost way to customize LLM's](https://youtu.be/_kbq-npuMC0?si=F6FUVsk2GGLrgmrn)
+
+- ## Taxonomy based approach (as opposed to a blender approach)
+- ## Synthetic Data Generation - with a Teacher Model
+- ## Critic Model - to check the accuracy of the Synthetic Data
+- ## Student Model training
+
+
+
+IBM and Red Hat\'s new open source project is designed to lower the cost of customizing Language Models by allowing end users, subject matter experts, and enterprises to collaboratively add new knowledge and skills to AI language models which democratize AI building for everyone.
+
+\"Instead of having a large company decide what your model knows, and what it can do, InstructLab lets you dictate through its taxonomy what knowledge and skills your model should have\" Akash Srivastava, the IBM researcher who led the team that developed LAB Method and is now principal AI product advisor at Red Hat.
+
+Watch the following video by Máirín Duffy to understand more the concepts.
+
+
+
+[Read this blog](https://research.ibm.com/blog/LLM-generated-data)
+A faster, systematic way to train large language models for enterprise by Kim Martineau, to understand more about the LAB methodology. 
+
+[Link to the Lab Paper](https://arxiv.org/abs/2403.01081)

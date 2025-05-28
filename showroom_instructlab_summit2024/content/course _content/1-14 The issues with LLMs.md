@@ -1,6 +1,6 @@
 
 
-# The issues with LLMs
+# The issues with LLMs - when you want to tune and make an LLM relevant to your needs
 
 ![The issues with LLMs](graphics/theproblemswithllms.png)
 

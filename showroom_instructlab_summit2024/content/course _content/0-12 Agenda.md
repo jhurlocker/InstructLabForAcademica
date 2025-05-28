@@ -1,36 +1,27 @@
 # - Agenda for workshop
 # - Overview of objectives
-# - Instroducing InstructLab 
-- Understand LLM/SLMs and the current challenges
-- LLM vs SLM
-- Open Source vs Proprietary
-- Apache 2.0 License for InstructLab and Granite
-- reduce bias through diversity
-- Fine tuning / RAG / InstructLab
-- Catastrophic Forgetting and other issues
-- Privacy of trade secrets or corporate policies
-- Cost implications
-- Herd of Llamas
+# - Understanding LLM's and the challenges of training LLM's 
+- Questions and Challenges
+- Introducing InstructLab
+- A brief history of AI
+- Introducing InstructLab
+- The LAB Methodology
+- What is an LLM 
+- How do we use LLMs 
+- The issue with LLM's
+- How InstructLab helps
+- Business use-cases for LLM's
+- How to add knowledge and skills to an LLM
+- 10 simple steps to training an LLM
 
-
-# - Instruct Innovation and the LAB Paper
-- A brief history of InstructLab
-- LAB paper
-- Democratize generative AI 
-- Community driven development
-- Minimum technical experience needed
-- Ease of use for SMEs
+- GUI Lab part 1 - Accessing and querying a SLM
 
 # - InstructLab – Taxonomy, knowledge, Skills, and other files for training
 - Taxonomy
-- Skills
-- qna.yaml
 - Knowledge
-- qna.yaml
-- attribution.txt
-- knowledge document (md or pdf)
+- Skills
 
-# - Hands on GUI Lab and Break
+# - Hands on GUI Lab part 2 Adding Knowledge 
 
 # - Synthetic Data Generation and Training a Model
 - Synthetic Data Generation

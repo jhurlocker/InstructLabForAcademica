@@ -9,26 +9,17 @@ A faster, systematic way to train large language models for the enterprise!
 ![LAB Paper](graphics/labpaper.png)
 
 ---
+**Large-scale Alignment for chatBots, or LAB**. Is a method for systematically generating synthetic data for the tasks you want your chatbot to accomplish, and for assimilating new knowledge and capabilities into the foundation model, without overwriting what the model has already learned. With LAB, Language Models can be drastically improved in far less time and at a lower cost than is typically spent training Language Models. **:bulb:This is the only method to enable community-driven development and model evolution**
 
-The Methodology behind InstructLab
-:bulb:**A method to enable community-driven development and model evolution**
 
-**Large-scale Alignment for chatBots, or LAB**. Is a method for systematically generating synthetic data for the tasks you want your chatbot to accomplish, and for assimilating new knowledge and capabilities into the foundation model, without overwriting what the model has already learned. With LAB, Language Models can be drastically improved in far less time and at a lower cost than is typically spent training Language Models.
-
+---
 ## High-level overview of the LAB paper (video)
 
 
-link to the YouTube video:
 [![LAB Paper](graphics/labpaper2.png)](https://youtu.be/_kbq-npuMC0?si=F6FUVsk2GGLrgmrn)
 
-- ## Taxonomy based approach (as opposed to a blender approach)
-- ## Synthetic Data Generation - with a Teacher Model
-- ## Critic Model - to check the accuracy of the Synthetic Data
-- ## Student Model training
 
-
-
-IBM and Red Hat\'s new open source project is designed to lower the cost of customizing Language Models by allowing end users, subject matter experts, and enterprises to collaboratively add new knowledge and skills to AI language models which democratize AI building for everyone.
+:bulb:IBM and Red Hat\'s new open source project is designed to lower the cost of customizing Language Models by allowing end users, subject matter experts, and enterprises to collaboratively add new knowledge and skills to AI language models which democratize AI building for everyone.
 
 ## Additional Reading
 

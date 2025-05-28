@@ -14,9 +14,9 @@
 - How to add knowledge and skills to an LLM
 - 10 simple steps to training an LLM
 
-- GUI Lab part 1 - Accessing and querying a SLM
+# - GUI Lab part 1 - Accessing and querying a SLM
 
-# - InstructLab – Taxonomy, knowledge, Skills, and other files for training
+# - Organising and collating your knowledge and skills
 - Taxonomy
 - Knowledge
 - Skills
@@ -29,11 +29,9 @@
 - Teacher Model
 - Critic Model
 - Advantages of Synthetic Data Generation
-- Multiphased tuning
-- yaml validation
 
-# - Usage of InstructLab and Open-Source
- 
-# - Hands-on Lab CLI Lab and Break
+# - Multiphased tuning
+
+# - Open-Source and licencing
 
 # - InstructLab open-book badge exam

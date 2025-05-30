@@ -11,7 +11,7 @@ This custom LLM could become a 'font of knowledge' - a **private** central sourc
 - But where do organisations begin? 
 - Isn't this expensive? 
 - Who has the necessary expertise? 
-- And how do they ensure they,re doing it right?
+- And how do they ensure they are doing it right?
 
 The reality is, building and evolving an LLM comes with significant challenges.
 

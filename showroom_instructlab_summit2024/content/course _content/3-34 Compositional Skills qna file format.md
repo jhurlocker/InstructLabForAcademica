@@ -28,9 +28,9 @@ Link to [more details on Skills in InstructLab documentation](https://docs.instr
     created_by: juliadenham 
     seed_examples: 
     -  question: What are 5 words that rhyme with horn? 
-        answer: warn, torn, born, thorn, and corn. 
+       answer: warn, torn, born, thorn, and corn. 
     -  question: What are 5 words that rhyme with cat? 
-        answer: bat, gnat, rat, vat, and mat. 
+       answer: bat, gnat, rat, vat, and mat. 
     -  question: What are 5 words that rhyme with poor? 
        answer: door, shore, core, bore, and tore. 
     -  question: What are 5 words that rhyme with bank? 

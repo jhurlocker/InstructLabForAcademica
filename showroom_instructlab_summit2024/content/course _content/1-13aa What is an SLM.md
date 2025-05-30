@@ -15,12 +15,27 @@ Contain less information but are typically focused on a specific field or set of
 
 Granite model uses 97% less energy than the largest LLMs, 
 
-In 2025 SLMs have become more prevalent in the market (Granite, Specialist Models) and models such as. DeepSeek, 
-
-
-
+In 2025 SLMs have become more prevalent in the market. 
 
 
 [Check out Granite and family of Models](https://www.ibm.com/granite)
+
+## SLM's
+
+**Qwen**
+This is the organization of Qwen, which refers to the large language model family built by Alibaba Cloud. In this organization, we continuously release large language models (LLM), large multimodal models (LMM), and other AGI-related projects. Feel free to visit Qwen Chat and enjoy our latest models!
+
+**Mistral NeMo**: a smalllLanguage model. A state-of-the-art 12B model with 128k context length, built in collaboration with NVIDIA, and released under the Apache 2.0 license.
+
+**DeepSeak**
+Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., doing business as DeepSeek, is a Chinese artificial intelligence company that develops large language models. Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer.
+
+**TeraMind**
+IBM and the European Space Agency (ESA) launched in April 2025 TerraMind, a new open-source AI model with an “intuitive” understanding of Earth. According to the research team, the system is the best-performing AI model for Earth observation.
+𝐇𝐮𝐠𝐠𝐢𝐧𝐠𝐅𝐚𝐜𝐞: https://lnkd.in/eTzZp7ZB \
+𝐁𝐥𝐨𝐠: https://lnkd.in/er9iMy6h𝐏𝐚𝐩𝐞𝐫:  \
+https://lnkd.in/e2yGeqApAnd watch the IBM hashtag#Granite space (https://lnkd.in/eM-C6DTB) where we are going to be releasing finetuned versions for 𝐂𝐥𝐢𝐦𝐚𝐭𝐞 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞!
+
+
 
 

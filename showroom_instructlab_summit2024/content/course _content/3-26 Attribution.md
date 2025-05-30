@@ -7,7 +7,7 @@
 [Link to source]\
 [Link to work]\
 [License of the work]\
-[Creator name]\
+[Creator name]
 
 **Attribution file example:**
 

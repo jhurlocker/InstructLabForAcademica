@@ -1,12 +1,11 @@
 # Example of a Compositional Skills qna file
 
-Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_structure/#__tabbed_4_1)
+Link to [more details in the InstructLab documentation](https://docs.instructlab.ai/taxonomy/skills/file_structure/#__tabbed_4_1)
 
 ## Ungrounded compositional skill: YAML example
 
 
-    version: 2
-       
+    version: 2 
     task_description: 'Teach the model how to rhyme.' 
     created_by: juliadenham 
     seed_examples: 
@@ -33,7 +32,7 @@ Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_stru
     created_by: mairin # Use your GitHub username; only one creator supported
     seed_examples:
     - context: 
-          | **Breed**      | **Size**     | **Barking** | **Energy** |
+          |   Breed        |   Size       |   Barking   |   Energy |
           |----------------|--------------|-------------|------------|
           | Afghan Hound   | 25-27 in     | 3/5         | 4/5        |
           | Labrador       | 22.5-24.5 in | 3/5         | 5/5        |
@@ -44,7 +43,7 @@ Link to [The skills files](https://docs.instructlab.ai/taxonomy/skills/file_stru
        answer: 
           The breed with the most energy is the Labrador.
     - context: 
-          | **Name** | **Date** | **Color** | **Letter** | **Number** |
+          |   Name   |   Date   |   Color   |   Letter   |   Number   |
           |----------|----------|-----------|------------|------------|
           | George   | Mar 5    | Green     | A          | 1          |
           | Gráinne  | Dec 31   | Red       | B          | 2          |

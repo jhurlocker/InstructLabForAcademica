@@ -3,7 +3,7 @@
 
 ## Contributing skills and knowledge
 
-[for more details follow this link](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#ways-of-contributing-to-the-taxonomy-repository)
+[For more details in InstructLab GitHub documentation](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#ways-of-contributing-to-the-taxonomy-repository)
 
 You can contribute to the taxonomy in the following two ways:
 

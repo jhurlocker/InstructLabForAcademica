@@ -15,6 +15,6 @@ Examples include:
 **Language**: Grammar, vocabulary, sentence structure, etc. 
 **Reasoning**: Drawing logical conclusions, problem-solving, etc. 
 
-InstructLab uses publicly available datasets to teach these foundational skills. Unlike knowledge and compositional skills, core skills are not something you can contribute to the tree.
+InstructLab uses publicly available datasets to teach these foundational skills. Unlike knowledge and compositional skills, core skills are not something you can contribute.
 
-[What is InstructLab and why do developers need it?](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/)
+Further reading can be found in the article, [What is InstructLab and why do developers need it?](https://developer.ibm.com/articles/awb-instructlab-why-developers-need-it/) by Syeda Ameena Begum.

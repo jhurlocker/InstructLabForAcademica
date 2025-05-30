@@ -11,10 +11,10 @@
 
 **Attribution file example:**
 
-    Title of work: Phoenix (constellation)\
-    Link to work: https://en.wikipedia.org/wiki/Phoenix_(constellation) \
-    Revision: https://en.wikipedia.org/w/index.php?title=Phoenix_(constellation)&oldid=1237187773 \
-    License of the work: CC-BY-SA-4.0\
+    Title of work: Phoenix (constellation)
+    Link to work: https://en.wikipedia.org/wiki/Phoenix_(constellation) 
+    Revision: https://en.wikipedia.org/w/index.php?title=Phoenix_(constellation)&oldid=1237187773 
+    License of the work: CC-BY-SA-4.0
     Creator names: Wikipedia Authors
 
 

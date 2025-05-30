@@ -7,12 +7,12 @@
 
 You can contribute to the taxonomy in the following two ways:
 
-**Adding new examples to existing leaf nodes:**
+**1. Adding new examples to existing leaf nodes**
 
-Go to the corresponding leaf node / end of the branch and modify the YAML
-Add a new example to the qna.yaml files as a new entry to the list
+Go to the corresponding leaf node / end of the branch and modify the YAML in the existing leaf node
 
-**Adding new branches/skills corresponding to the existing domain:**
 
-You can add new folders under the corresponding category (replace any spaces with underscores _)
-Create a new qna.yaml file containing examples for the new skill
+**2. Adding new a new branches/leaf nodes**
+
+You can add new folders under the corresponding category 
+Add new qna.yaml file/s containing examples for the new knoweledge or skill

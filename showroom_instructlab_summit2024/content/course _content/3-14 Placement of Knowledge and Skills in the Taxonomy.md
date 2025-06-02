@@ -17,3 +17,5 @@ You can contribute to the taxonomy in the following two ways:
 
 - You can add new folders under the corresponding category 
 - Add new qna.yaml file/s containing examples for the new knoweledge or skill
+
+![placement of knowledge](graphics/placementofknowledge.png)

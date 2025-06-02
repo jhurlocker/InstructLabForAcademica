@@ -2,11 +2,11 @@
 
 Below is an illustration of the information that goes into the qna.yaml file
 
+---
 
-     `version`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3.
 
-     `created_by`: Your GitHub username.
-
+     `**version**`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3.
+     `**created_by**`: Your GitHub username.
      `domain`: Specify the category of the knowledge.
 
      `seed_examples`: :bulb: A collection of key/value entries (**you must have at least 5**)

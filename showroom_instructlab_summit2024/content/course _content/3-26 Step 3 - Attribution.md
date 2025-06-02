@@ -1,4 +1,4 @@
-# Attribution File Overview
+# Step 3 - Create an Attribution file 
 
 :bulb: The attribution.txt file includes the actual public link to the knowledge source, license details of the knowledge being contributed, and the specific revision being used. 
 

@@ -4,7 +4,7 @@
 
 A faster, systematic way to train large language models for the enterprise!
 
-**Please note:** We will cover the topic's on this page during this course as we delve in to how to tune an LLM with InstructLab
+**Please note:** We will cover the methodology as we go through this course.
 
 ![LAB Paper](graphics/labpaper.png)
 

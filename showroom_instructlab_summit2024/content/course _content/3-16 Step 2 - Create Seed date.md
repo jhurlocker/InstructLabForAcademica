@@ -6,9 +6,9 @@ Below is an illustration of the information that goes into the qna.yaml file
 
 ---
 
- `version`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3.
- `created_by`: Your GitHub username.
- `domain`: Specify the category of the knowledge.
+ `version`: The version of the qna.yaml file, this is the format of the file used for SDG. The value must be the number 3. \
+ `created_by`: Your GitHub username. \
+ `domain`: Specify the category of the knowledge. \
  `seed_examples`: :bulb: A collection of key/value entries (**you must have at least 5**)
      `context`: A chunk of information from the knowledge document. Each qna.yaml needs five context blocks and has a maximum word count of 500 words.
      `questions_and_answers`: The parameter that holds your questions and answers (**for each context there should be 3 q&a examples**)

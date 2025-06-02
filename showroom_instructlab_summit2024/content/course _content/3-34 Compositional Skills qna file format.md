@@ -1,6 +1,6 @@
 # Skills qna.yaml file format
 
-The chart illustrates the type of data that is required in the qna.yaml file. 
+The chart illustrates the data that is required in a Skills qna.yaml file. 
 
 
 Link to [more details on Skills in InstructLab documentation](https://docs.instructlab.ai/taxonomy/skills/file_structure/#__tabbed_4_1)
@@ -20,3 +20,6 @@ Link to [more details on Skills in InstructLab documentation](https://docs.instr
 | context | string | only for grounded skills | each context requires 3 sets of Q&A - max 500 tokens|
 | question | string | yes | max 250 tokens |
 | answer | string | yes | max 250 tokens |
+
+
+Link to [more details on Skills in InstructLab documentation](https://docs.instructlab.ai/taxonomy/skills/file_structure/#__tabbed_4_1)

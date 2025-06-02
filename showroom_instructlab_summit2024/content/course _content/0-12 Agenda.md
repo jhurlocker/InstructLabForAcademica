@@ -1,27 +1,19 @@
 # - Agenda for workshop
 # - Overview of objectives
 # - Understanding LLM's and the challenges of training LLM's 
-- Questions and Challenges
-- Introducing InstructLab
-- A brief history of AI
-- Introducing InstructLab
-- The LAB Methodology
-- What is an LLM 
-- How do we use LLMs 
-- The issue with LLM's
-- How InstructLab helps
-- Business use-cases for LLM's
-- How to add knowledge and skills to an LLM
-- 10 simple steps to training an LLM
+---
+# - Break - 10 minutes
 
 # - GUI Lab part 1 - Accessing and querying a SLM
+---
 
 # - Organising and collating your knowledge and skills
-- Taxonomy
-- Knowledge
-- Skills
+
+---
+# - Break - 10 minutes
 
 # - Hands on GUI Lab part 2 Adding Knowledge 
+---
 
 # - Synthetic Data Generation and Training a Model
 - Synthetic Data Generation
@@ -33,5 +25,7 @@
 # - Multiphased tuning
 
 # - Open-Source and licencing
+
+---
 
 # - InstructLab open-book badge exam

@@ -1,5 +1,3 @@
-
-
 # Small Language Models
 
 ![SLM](graphics/slm.png)
@@ -32,9 +30,14 @@ Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., d
 
 **TeraMind**
 IBM and the European Space Agency (ESA) launched in April 2025 TerraMind, a new open-source AI model with an “intuitive” understanding of Earth. According to the research team, the system is the best-performing AI model for Earth observation.
-𝐇𝐮𝐠𝐠𝐢𝐧𝐠𝐅𝐚𝐜𝐞: https://lnkd.in/eTzZp7ZB \
-𝐁𝐥𝐨𝐠: https://lnkd.in/er9iMy6h𝐏𝐚𝐩𝐞𝐫:  \
-https://lnkd.in/e2yGeqApAnd watch the IBM hashtag#Granite space (https://lnkd.in/eM-C6DTB) where we are going to be releasing finetuned versions for 𝐂𝐥𝐢𝐦𝐚𝐭𝐞 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞!
+HuggingFace: https://lnkd.in/eTzZp7ZB \
+Blog: https://lnkd.in/er9iMy6h \
+Paper: https://lnkd.in/e2yGeqAp \
+And watch the IBM Granite space (https://lnkd.in/eM-C6DTB) where we are going to be releasing finetuned versions for climate resilience! \
+
+
+
+
 
 
 

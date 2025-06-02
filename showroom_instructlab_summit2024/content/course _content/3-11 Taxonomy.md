@@ -6,7 +6,7 @@
 ### - Is driven by taxonomies
 which are largely created manually and with care.
 
-### - The taxonomy tree categorizes knowledge
+### - The taxonomy tree categorizes knowledge and skills
 It helps you identify where knowledge should go, identify gaps in training data, and is customizable. Knowledge is added to the lowest level of the taxonomy, to the **leaf nodes**.
 
 ### - InstructLab has a repository that contains the taxonomy tree (hierarchical map) 

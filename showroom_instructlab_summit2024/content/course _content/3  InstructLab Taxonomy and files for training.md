@@ -1,5 +1,9 @@
 # InstructLab Taxonomy and files for training
 
+![InstructLab Taxonomy and files for training](graphics/taxonomyandfilesfortrainingtuning.png)
+
+---
+
 In this section we will look at the components we need to have in place to add knowledge or skills to our LLM
 
 ## - Taxonomy

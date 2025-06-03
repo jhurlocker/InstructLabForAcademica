@@ -2,7 +2,8 @@
 ## Synthetic Data Generation
 
 SDG is important as Large Language Models are expected to produce responses that align with human values and that are correct, this is one of the ways that the LLM will understand how to craft examples by learning from experience.
-
+---
+![How LLMs are tuned](graphics/reminderontuning.png)
 ---
 
 ## How LLMs are tuned

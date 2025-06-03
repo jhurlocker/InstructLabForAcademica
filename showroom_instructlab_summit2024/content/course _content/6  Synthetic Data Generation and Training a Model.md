@@ -1,4 +1,4 @@
-# Synthetic Data Generation and Training a Model
+# Synthetic Data Generation and Tuning a Model
 
 In this section we will look at:
 - Synthetic Data Generation and associated Challenges 
@@ -9,4 +9,6 @@ In this section we will look at:
 - Replay Buffers and Catastrophic Forgetting
 - Quantized models and GUFF files
 - How good is InstructLab?
+---
+![SDG and Tuning](graphics/10ssSDGandTune.png)
 

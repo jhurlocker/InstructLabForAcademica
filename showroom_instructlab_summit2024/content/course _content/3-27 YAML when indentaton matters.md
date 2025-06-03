@@ -9,5 +9,5 @@
 - Consider quoting all values with double quotation marks (") to avoid surprising YAML parser behavior (e.g., Yes answer can be interpreted by the parser as a boolean of True value, unless "Yes" is quoted.)
 
 
-## See yaml-multiline.info for more info.
+## [See yaml-multiline.info for more info](https://yaml-multiline.info/)
 

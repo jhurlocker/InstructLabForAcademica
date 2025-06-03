@@ -6,9 +6,10 @@ Always think carefully about the seed Q&A files that you add as these are exampl
 
 # Reminder of the files that are required
 
-**Knowledge** required a minimum of 5 contexts each context must have 3 Q&A Examples \
-**Ungrounded Skills** require a minimum of 5 Q&A pairs \
-**Grounded Skills** require a minimum of 5 contexts each context must have 1 Q&A examples \
+**qna.yaml file**
+- **Knowledge** required a minimum of 5 contexts each context must have 3 Q&A Examples \
+- **Ungrounded Skills** require a minimum of 5 Q&A pairs \
+- **Grounded Skills** require a minimum of 5 contexts each context must have 1 Q&A examples \
 
 **Knowledge files** when adding knowledge, these are either pdf or markdown files \
 **Attribution file** provides the providence information for the knowledge or skill you are adding. 

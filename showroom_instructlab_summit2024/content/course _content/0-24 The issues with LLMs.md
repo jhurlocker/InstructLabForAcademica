@@ -1,6 +1,6 @@
 
 
-# The proliferation issues with LLMs
+# The proliferation issue
 
 ![The issues with LLMs](graphics/theproblemswithllms.png)
 

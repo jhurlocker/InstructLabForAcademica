@@ -11,6 +11,7 @@ In 2025 this is what people typically use LLM's for - there are many articles on
 ---
 
 ![LLM trends](graphics/howdowweusellms.png)
+*Click on the image for the full LinkedIn post*
 ---
 
 # How can businesses benefit from LLM's or SLM's?

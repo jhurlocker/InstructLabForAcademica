@@ -1,19 +1,11 @@
 
 
-# The issues with LLMs - when you want to tune and make an LLM relevant to your needs
+# The proliferation issues with LLMs
 
 ![The issues with LLMs](graphics/theproblemswithllms.png)
 
 ---
-# The LLM challenge: Low-quality data to build LLMs
-
-As the competition in the LLM space intensifies, the approach seems to be to build increasingly massive models trained from vast amounts of information from the public internet. However, large parts of the internet include redundant information or non-natural language data that does not contribute to the model's core functionality.
-
-For instance, 80% of tokens used to train the LLM GPT-3, upon which later versions are built, originates from Common Crawl, which includes an enormous array of web pages. This dataset is known to contain a mix of high-quality text, low-quality text, scripts and other non-natural language data. It is estimated that a significant fraction of the data may be non-useful or low-quality content. (Common Crawl Analysis)
-
-Taken from ["how InstructLab's synthetic data generation enhances LLMs"](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
-
-by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn) and [Legare Kerrison](https://www.redhat.com/en/authors/legare-kerrison)
+What is important to note here is that the LAB Method provides a framework to control the profliferation of models and provides traceability to the data being added and tuning.  For an **organisation** not only do they get a way to simplify training but they also get a way to govern the protential proliferation of models in their organisation.
 
 ---
 # Comparison of LLMs and SLMs
@@ -33,6 +25,20 @@ by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn) and [Legar
 From the short list of comparisons you can understand why training large language models (LLMs) is expensive due to the immense computational resources, large amounts of data, and specialized expertise required. These factors contribute to high infrastructure costs, data acquisition and preparation expenses, and the salaries of the highly skilled personnel involved. 
 
 :bulb: *To Train an open source LLM in a traditional manner the primary challenge is cost of computing resourses and skills!*
+
+---
+# Further Reading 
+
+## The LLM challenge: Low-quality data to build LLMs
+
+As the competition in the LLM space intensifies, the approach seems to be to build increasingly massive models trained from vast amounts of information from the public internet. However, large parts of the internet include redundant information or non-natural language data that does not contribute to the model's core functionality.
+
+For instance, 80% of tokens used to train the LLM GPT-3, upon which later versions are built, originates from Common Crawl, which includes an enormous array of web pages. This dataset is known to contain a mix of high-quality text, low-quality text, scripts and other non-natural language data. It is estimated that a significant fraction of the data may be non-useful or low-quality content. (Common Crawl Analysis)
+
+Taken from ["how InstructLab's synthetic data generation enhances LLMs"](https://www.redhat.com/en/blog/how-instructlabs-synthetic-data-generation-enhances-llms)
+
+by [Cedric Clyburn](https://www.redhat.com/en/authors/cedric-clyburn) and [Legare Kerrison](https://www.redhat.com/en/authors/legare-kerrison)
+
   
 
 

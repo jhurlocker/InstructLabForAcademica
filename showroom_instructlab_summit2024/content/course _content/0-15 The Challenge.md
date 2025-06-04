@@ -4,7 +4,7 @@
 
 ---
 
-Imagine a business wants to harness the full value of its internal data by building its own proprietary, **in-house LLM**. Fortunately, they don't need to start from scratch. With the growing ecosystem of open-source models available on platforms like Hugging Face, companies can fine-tune an existing model to suit their specific needs.
+Imagine a business wants to harness the full value of its internal data by building its own proprietary, **in-house LLM**. Fortunately, they don't need to start from scratch. With the growing ecosystem of open-source models available on platforms like Hugging Face, companies can fine-tune an existing model to suit their specific needs. .  Further, **the organisation is not putting its internal private data in the hands of an LLM that may be learning from the questions asked of it!**
 
 This custom LLM could become a 'font of knowledge' - a **private** central source of knowledge and capability that empowers employees with instant access to company-specific expertise, streamlines internal processes, and provides valuable insights into customer behavior and operational efficiency. In short, it could be a powerful source of institutional intelligence.
 

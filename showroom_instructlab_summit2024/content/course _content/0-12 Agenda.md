@@ -3,26 +3,26 @@
 # InstructLab 
 ---
 
-# > Break - 10 minutes
+# Break - 10 minutes
 
-> part 1 - Accessing and querying a SLM
+# Lab - Part 1 - Accessing and querying a SLM
 ---
 
 # Organising and collating your knowledge and skills 
 
 ---
 
-## - Break - 10 minutes
+## Break - 10 minutes
 
-## - Hands on GUI Lab part 2 Adding Knowledge 
+## Hands on GUI Lab part 2 Adding Knowledge 
 ---
 
-# - Synthetic Data Generation and Training a Model
+# Synthetic Data Generation and Training a Model
 
-# - Multiphased tuning
+# Multiphased tuning
 
-# - Open-Source and licencing 
+# Open-Source and licencing 
 
 --- 
 
-# - InstructLab open-book badge exam
+# InstructLab open-book badge exam

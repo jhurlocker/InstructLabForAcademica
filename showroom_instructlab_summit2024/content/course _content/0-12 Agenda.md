@@ -3,7 +3,7 @@
 # - InstructLab 
 ---
 
-## - Break - 10 minutes
+## <span style="color: red;">Break - 10 minutes</span>
 
 ## - GUI Lab part 1 - Accessing and querying a SLM 
 ---

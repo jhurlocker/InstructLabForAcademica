@@ -3,9 +3,9 @@
 # - InstructLab 
 ---
 
-## <span style="color: red;">Break - 10 minutes</span>
+<span style="color: red;">Break - 10 minutes></span>
 
-## - GUI Lab part 1 - Accessing and querying a SLM 
+\textcolor{red}{GUI Lab part 1 - Accessing and querying a SLM}
 ---
 
 # - Organising and collating your knowledge and skills 

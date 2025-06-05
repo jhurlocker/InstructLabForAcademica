@@ -15,13 +15,13 @@ Reducing the number of bits means the resulting model requires less memory stora
 
 # :bulb:GGUF files (GPT-Generated Unified Format)
 
-[More information at huggingface.com](https://huggingface.co/docs/hub/en/gguf)
-
 
 Then Hugging Face Hub (where you can access many open source models), supports many file formats, but has built-in features for [GGUF format](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md), a binary format that is optimized for quick loading and saving of models, making it highly efficient for inference purposes. GGUF is designed for use with GGML and other executors. GGUF was developed by [@ggerganov](https://huggingface.co/ggerganov) who is also the developer of [llama.cpp](https://github.com/ggerganov/llama.cpp), a popular C/C++ LLM inference framework. Models initially developed in frameworks like PyTorch can be converted to GGUF format for use with those engines.
 
-##What are GUFF files
+Further Reading [More information at huggingface.com](https://huggingface.co/docs/hub/en/gguf)
 
+
+## What are GUFF files
 
 GPT-Generated Unified Format (GGUF) is a file format that streamlines the use and deployment of large language models (LLMs). GGUF is specially designed to store inference models and perform well on consumer-grade computer hardware.
 Further reading: [GGUF versus GGML](https://www.ibm.com/think/topics/gguf-versus-ggml#:~:text=GPT%2DGenerated%20Unified%20Format%20(GGUF,large%20language%20models%20(LLMs).) by [Tim Mucci](https://www.ibm.com/think/author/tim-mucci)

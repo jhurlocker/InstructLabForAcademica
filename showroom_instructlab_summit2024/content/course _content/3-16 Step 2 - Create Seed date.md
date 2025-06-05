@@ -1,6 +1,6 @@
 # Step 2 - Create seed data in the Knowledge qna.yaml file format
 
-Below is an illustration of the information that goes into the qna.yaml file
+Below is an overview of the different sections in the qna.yaml file, and what they are. 
 
 ---
 

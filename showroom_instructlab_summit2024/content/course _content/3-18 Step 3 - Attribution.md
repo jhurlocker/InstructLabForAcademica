@@ -1,6 +1,6 @@
 # Step 3 - Create an Attribution file 
 
-:bulb: The attribution.txt file includes the actual public link to the knowledge source, license details of the knowledge being contributed, and the specific revision being used. 
+:bulb: The attribution.txt file includes the link to the knowledge source, license details of the knowledge being contributed, and the specific revision being used.
 
 **Attribution file structure:**
 
@@ -18,6 +18,7 @@
     Creator names: Wikipedia Authors
 
 
-For more information on what to include in your attribution.txt file, see [For your attribution.txt](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#for-your-attributiontxt-file) file in CONTRIBUTING.md.
+For more information on what to include in your attribution.txt file, see [For your attribution.txt](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#for-your-attributiontxt-file) on the InstructLab Github site.
 
-If you want to contribute information back to the main model then you must have an attribution.txt file for your submission. 
+When contributing information to a model, then you must have an attribution.txt file for your submission.
+

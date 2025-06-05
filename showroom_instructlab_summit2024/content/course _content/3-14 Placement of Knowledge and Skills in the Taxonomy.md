@@ -21,3 +21,5 @@ You can contribute to the taxonomy in the following two ways:
 ---
 
 ![placement of knowledge](graphics/placementofknowledge.png)
+
+[Further reading is available in the InstructLab GitHub documentation](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md#ways-of-contributing-to-the-taxonomy-repository)

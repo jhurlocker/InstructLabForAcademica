@@ -2,5 +2,6 @@
 
 ![Knowledge examples](graphics/Knowledgeexamples.png)
 
-**:bulb: - For organizations, InstructLab provides a way to customise and infuse their in-house LLMs with their own specific business use cases.**
-**- Having a customised LLM (that you have updated with InstructLab to add company specific data to) can mean that creating Agentic Solutions, Chatbots, Assistants, becomes a much faster process as the company information is available in that organisations private LLM/SLM**
+**:bulb: InstructLab offers businesses and organizations a powerful new way to tailor their in-house LLMs by integrating proprietary business information directly into the model.**
+
+**Having a customized model—enhanced with company-specific data using InstructLab—can significantly accelerate the development of agentic solutions, chatbots, and assistants. This is because the organization’s proprietary information can be embedded within its private model, streamlining the creation process.**

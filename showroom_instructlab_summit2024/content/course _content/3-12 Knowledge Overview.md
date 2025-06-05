@@ -3,7 +3,9 @@
 ![Knowledge Overview](graphics/knowledgeoverview.png)
 
 ---
-When we identify we are missing a piece of knowledge – we can add that to our LLM.
+When we identify that we are missing a piece of knowledge – we can now add that to our LLM.
+
+You take the following steps to add missing knowledge:
 
 - Identify where in the Taxonomy to add the new knowledge this may require a new branch and leaf
 - Provide data files (in markdown or pdf) to add as supporting knowledge to be added to InstructLab

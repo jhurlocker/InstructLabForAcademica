@@ -12,7 +12,7 @@ InstructLab comes with a base taxonomy, this taxonomy is grown as you add branch
 The taxonomy guides the placement of knowledge and skills by helping you determine where each element belongs. When gaps are identified in the model, you can fill them by providing seed questions and answers, along with context, and knowledge files (the latter two are  not required for all skills - Context is only required for Grounded Skills). 
 
 Note that: 
--The taxonomy is fully customizable. 
+- The taxonomy is fully customizable. 
 - Knowledge and skills are added as leaf nodes the endpoints of the taxonomy branches 
 
 ### - InstructLab has a repository that contains the taxonomy tree (hierarchical map) 

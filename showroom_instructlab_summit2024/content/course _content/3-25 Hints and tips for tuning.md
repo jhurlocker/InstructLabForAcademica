@@ -11,8 +11,10 @@ Always think carefully about the seed Q&A files that you add as these are exampl
 - **Ungrounded Skills** require a minimum of 5 Q&A pairs 
 - **Grounded Skills** require a minimum of 5 contexts each context must have 1 Q&A examples 
 
-**Knowledge files** when adding knowledge, these are either pdf or markdown files 
+**Knowledge files** when adding knowledge, these are either pdf or markdown files \
 **Attribution file** provides the providence information for the knowledge or skill you are adding. 
+
+Best practice details for qna.yaml files is available on [Github.com](https://github.com/instructlab/docs.instructlab.ai/pull/3/files)
 
 
 

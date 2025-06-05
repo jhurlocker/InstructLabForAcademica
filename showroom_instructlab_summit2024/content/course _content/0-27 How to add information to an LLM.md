@@ -1,4 +1,4 @@
-# How we train models
+# How we tune models
 
 
 ![Ways to train LLM's](graphics/waystotrainanllm.png)

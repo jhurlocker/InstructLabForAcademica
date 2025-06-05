@@ -33,7 +33,7 @@ Below is an overview of the different sections in the qna.yaml file, and what th
 
 ---
 
-    # :bulb: Other requirements
+# :bulb: Other requirements
 
    
 There is a minimum requirement to have 5 'context' - which will have an associated minimum of 3 'questions and answer' pairs.  The 'question and answer' pairs must relate to the context. 

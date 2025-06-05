@@ -21,7 +21,7 @@ Then Hugging Face Hub (where you can access many open source models), supports m
 Further Reading [More information at huggingface.com](https://huggingface.co/docs/hub/en/gguf)
 
 
-## What are GUFF files
+## What are GUFF files?
 
 GPT-Generated Unified Format (GGUF) is a file format that streamlines the use and deployment of large language models (LLMs). GGUF is specially designed to store inference models and perform well on consumer-grade computer hardware.
 Further reading: [GGUF versus GGML](https://www.ibm.com/think/topics/gguf-versus-ggml#:~:text=GPT%2DGenerated%20Unified%20Format%20(GGUF,large%20language%20models%20(LLMs).) by [Tim Mucci](https://www.ibm.com/think/author/tim-mucci)

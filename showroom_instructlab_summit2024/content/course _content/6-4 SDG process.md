@@ -7,12 +7,12 @@ Synthetic Sata Generation (SDG)
 ![SDG process](graphics/theprocessofgenerationsdg.png)
 
 Based on the qna.yaml questions and knowledge file/s:
-- **The Teacher model** will generate a set of questions (this could be 10,000 + questions) by iterating through each leaf node of a taxonomy, the teacher model generates queries that adhere to specific principles.
-- **The Critic model** then evaluates the questions from step 1 and removes the week questions.  The output is a set of quality questions.
-- **The Teacher Model** then creates answers
+- **The Teacher model** will generate a set of questions (this could be 10,000+ questions) based on the qna.yaml and knowledge files, by iterating through each leaf node of a taxonomy, the teacher model generates queries that adhere to specific principles.
+- **The Critic model** then evaluates the questions from step 1 and removes the week questions.  The output is a set of *quality* questions.
+- **The Teacher Model** then creates answers, again this is based on the qna.yaml and knowledge files, by iterating through each leaf node of a taxonomy, the teacher model generates queries that adhere to specific principles.
 - The Answers are evaluated by the **Critic Model**.  The output is a set of qualifying Q&A’s, with poor Q&A pairs removed
 
-InstructLab has created your training data which you can review and then train the model with!
+After InstructLab has created your training data, this data can be review and then be used to tune/train the model with!
 
 
 ---

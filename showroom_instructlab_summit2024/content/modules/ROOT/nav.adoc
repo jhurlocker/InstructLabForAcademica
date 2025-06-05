@@ -1,1 +1,2 @@
 * xref:module-03.adoc[1. InstructLab UI Workshop]
+* xref:module-04.adoc[2. InstructLab UI Workshop]

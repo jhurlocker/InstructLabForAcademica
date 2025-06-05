@@ -5,3 +5,5 @@ All the information you require to attain this badge has been covered in todays 
 #InstructLab: Democratizing AI Models at Scale
 
 [link to the InstructLab Badge and exam](https://www.ibm.com/training/course/instructlab-democratizing-ai-models-at-scale-DL01001G)
+
+[![InstructLab open book exam](graphics/exam.png)](https://www.ibm.com/training/course/instructlab-democratizing-ai-models-at-scale-DL01001G)

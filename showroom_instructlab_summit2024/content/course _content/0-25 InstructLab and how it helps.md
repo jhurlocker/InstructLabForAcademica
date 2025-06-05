@@ -19,5 +19,8 @@ InstructLab is an **open-source project** originating from IBM Research and Red 
 - Provides some ability to control and govern the development of their in-house LLM
 - Enables the organisation to capture the providence of information added to the model 
 
+---
+
+![InstructLab Skills](graphics/ILskills.png)
 
 

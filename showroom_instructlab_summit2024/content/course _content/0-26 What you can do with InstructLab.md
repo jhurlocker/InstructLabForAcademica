@@ -4,7 +4,9 @@
 
 ---
 
-# Further Reading (this will be covered in later sections)
+# *Further Reading below (this will be covered in later sections)*
+
+---
 
 # InstructLab Taxonomy and Process Overview
 

@@ -1,6 +1,9 @@
 # 
-# :bulb: Spaces and indentation matter in YAML. Use two spaces to indent.
+# :bulb: Spaces and indentation matter in YAML. 
 
+If you're creating your files using the command line interface (CLI), you'll need to use Markdown (MD) formatting within the qna.yaml file. Please note that formatting is crucial in this context. It's highly recommended to refer to an example file and closely follow its indentation and use of tabs or spaces to ensure consistency and correctness.
+
+- Use two spaces to indent.
 - Don't use tabs!
 - Do not have trailing spaces at the end of a line.
 - Each example in seed_examples begins with a dash (-). Place this dash in front of the first field (question or context). The remaining keys in the example should not have this dash.

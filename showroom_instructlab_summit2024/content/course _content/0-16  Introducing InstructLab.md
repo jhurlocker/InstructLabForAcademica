@@ -17,7 +17,7 @@ Traditional methods for training an LLMs are labourious, time consuming, and com
 
 ---
 
-InstructLab had democratising the alignment tuning of LLM's enabling anyone to be able to contribute knowledge and skills. InstructLab has also been developed by RedHat and is today available with an Apache 2.0 licence as open source software on GitHub, where you can not only contribute to the development of InstructLab, but more importantly anyone can use it to contribut to public or private LLM's.
+InstructLab is democratising alignment tuning of LLM's enabling anyone to contribute knowledge and skills. Since being initally developed by IBM Research it has had been evolved by both IBM Research and RedHat and is today available with an Apache 2.0 licence as open-source software on GitHub, where you can not only contribute to the development of InstructLab, but you can use it to contribut to public or private LLM's.
 
 ## Why is this important
 

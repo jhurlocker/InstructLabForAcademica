@@ -1,0 +1,101 @@
+= Contributing knowledge to open-source LLMs like the Granite models using the InstructLab UI
++
+A hands-on guide for getting started using the InstructLab UI and adding knowledge to open-source LLMs
+
+By https://developer.ibm.com/profiles/ahmed.azraq[Ahmed Azraq^]
+
+Large Language Models (LLMs) have immense potential, but they come with challenges like the need for high-quality training data, specialized skills, and extensive computing resources. Forking and retraining these models can be time-consuming and costly. That's where InstructLab steps in! This open-source project leverages community contributions to enhance LLMs, offering a more efficient and collaborative approach to generative AI.
+
+NOTE: The "lab" in InstructLab stands for Large-Scale Alignment for ChatBots, which is detailed in the LAB: Large-Scale Alignment for ChatBots research paper.
+InstructLab is a community-based approach to building truly open-source LLMs. The InstructLab community model will be updated with a periodic release cycle for models and data shared regularly on Hugging Face. Learn more about what InstructLab is and why developers need it in this article on IBM Developer.
+
+In my previous tutorial, Contributing knowledge to the open source Granite model using InstructLab, I showed how to set up your local environment, and locally run the entire process of fine-tuning and contributing to open-source LLMs, such as IBM Granite. The end-to-end process included updating the taxonomy and dealing with YAML files, which required expertise with YAML and familiarity with the GitHub pull request (PR) process.
+
+In this tutorial, you learn how to accomplish the same goal of fine-tuning open-source LLMs using InstructLab UI. The InstructLab User Interface (UI) allows you to easily contribute knowledge or skills to the InstructLab taxonomy repository without worrying about YAML structure, the different validation rules, or the GitHub pull request (PR) process.
+
+The InstructLab UI enables users to focus on enhancing the open-source LLM's capabilities without needing to worry about the tools and processes and allow them to focus on the content of the contribution. This intuitive UI can be used by a wide spectrum of users ranging from GitHub and YAML savvy developers to those who do not have any familiarity with these tools.
+
+== Prerequisites
+
+. You must have a GitHub account.
+
+. *Important*: Make sure that you populate your name in your GitHub account by editing the name field here. This GitHub name field is required to populate the name field in InstructLab UI.
+
+. Make sure to uncheck Keep my email addresses private in your GitHub account here. This setting is required to populate the email field in InstructLab UI.
+
+. To fine tune the model locally, check the Requirements section of the InstructLab documentation for the operating system, hardware, and software prerequisites.
+
+== Steps
+
+=== Step 1. Gain access to InstructLab UI
+
+InstructLab UI is currently released as a beta version. To access the UI, you must request access through performing the steps in this section. The steps in this section need to be done only the first time you are accessing the InstructLab UI.
+
+. Open InstructLab UI, and click Sign in with GitHub.
++
+image::InstructLabUISignIn.png[InstructLab Sign In, 80%, 80%]
+
+. On the GitHub login page, login with your user name and password.
+
+. You must authorize InstructLab UI to be able to access your GitHub account. This is required because InstructLab UI allows you to pull PRs, fork the repositories, and submit PRs directly. Click *Authorize instructlab-public*.
++
+image::InstructLabAuthorize.png[Authorize InstructLab, 80%, 80%]
+
+. You must be part of the instructlab-public GitHub organization to be able to access InstructLab UI. You can self-invite yourself. Once you login with your GitHub account, InstructLab UI will detect that you are not part of instructlab-public organization, and it will show a pop-up that has a button to self-invite to the organization. Click *Send Invite*.
++
+image::InstructLabInvite.png[InstructLab Invite, 80%, 80%]
+
+. Check your email, you should receive an email from GitHub with the organization invitation. Click *Join @instructlab-public* to join the organization.
++
+image::InstructLabJoin.png[Join InstructLab, 80%, 80%]
+
+. On the GitHub UI, click Join InstructLab Public Users to accept the organization invitation.
++
+image::InstructLabJoin.png[Join InstructLab, 80%, 80%]
+
+. Now, you should be able to access InstructLab UI. On the InstructLab UI Login Page, click *Sign in with GitHub*.
+
+. Accept the GitHub access permissions. Click *Accept*.
++
+image::github-accept-permissions.png[Github Permissions, 80%, 80%]
+
+=== Step 2. Chat with the model
+
+In this section, you are going to chat with the current LLM to see if the model is already trained on the knowledge or skill that you want to contribute or not.
+
+InstructLab UI allows you to chat with these two models (as of the time of writing this tutorial):
+
+- https://huggingface.co/instructlab/granite-7b-lab?utm_source=ibm_developer&utm_content=in_content_link&utm_id=tutorials_awb-contributing-llm-granite-instructlab-ui[Granite-7b^]: Open-source IBM Granite model.
+- https://huggingface.co/ibm/merlinite-7b?utm_source=ibm_developer&utm_content=in_content_link&utm_id=tutorials_awb-contributing-llm-granite-instructlab-ui[Merlinite-7b^]: Derivative model from Mistral-7b, trained with the LAB method.
+
+Additionally, you can chat with your own served model by adding its endpoint in Custom Model Endpoints in InstructLab UI.
+
+To chat with the model, follow these steps:
+
+. Open https://ui.instructlab.ai/?cm_sp=ibmdev-_-developer-_-trial&utm_source=ibm_developer&utm_content=in_content_link&utm_id=tutorials_awb-contributing-llm-granite-instructlab-ui[InstructLab UI^]
++
+image::InstructLabUI.png[InstructLab UI, 80%, 80%]
+
+. Navigate to *Playground > Chat*.
+
+. In the *Model Selector*, select the model you want to chat with. Select Granite-7B from the drop-down list.
++
+image::chat-model-selector.png[Chat model selector, 80%, 80%]
+
+. Type _What is IBM Granite_, and then click Send.
+
+. The IBM Granite model is not yet trained on the knowledge about IBM Granite. The existing model didn't identify that IBM Granite is a foundation model. The model in this case is hallucinating, so you might receive different results.
++
+image::chat-model-before-granite.png[Chat model before granite, 80%, 80%]
++
+In the next steps, you learn how to fine tune an open-source LLM (IBM Granite) with additional knowledge.
+
+
+== Summary and next steps
+In this first part of the lab, you learned how to access InstructLab, run a prompt, and identified some missing data. 
+
+
+== Acknowledgments
+This tutorial is produced as part of an https://www.ibm.com/blog/author/ibmioc/?utm_source=ibm_developer&utm_content=in_content_link&utm_id=tutorials_awb-contributing-llm-granite-instructlab-ui&cm_sp=ibmdev-_-developer-tutorials-_-ibmcom[IBM Open Innovation Community^] initiative.
++
+The author appreciates the efforts of *Anil Vishnoi* (Principal Software Engineer, Red Hat), *Susan Malaika* (Senior Technical Staff Member, IBM), and *Suhas Kashyap* (Senior Product Manager, InstructLab for watsonx.ai, IBM) for their guidance and expertise in reviewing and contributing to this tutorial.
